@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Blog
+title: Ken Booth
 ---
 
 <!-- This loops through the paginated posts -->
