@@ -10,6 +10,6 @@ title: Ken Booth
     {% capture thedate %}{{currentdate}}{% endcapture %} 
   {% endif %}
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-	{% endfor %}
+{% endfor %}
 
 
