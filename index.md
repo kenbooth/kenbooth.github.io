@@ -13,6 +13,7 @@ title: Ken Booth
   </div>
   {% endfor %}
 
+  
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
