@@ -3,41 +3,39 @@ layout: default
 title: Ken Booth
 ---
 
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">{{ post.date }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-  {% endfor %}
+  {% for post in paginator.posts %}
+      {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
+      {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
 
-  
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
+      <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
+        <header class="post-header">
+          <h1 class="post-title">
+            {% if post.external-url %}
+              <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
+            {% else %}
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            {% endif %}
+          </h1>
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
+          <p class="post-meta">
+            {{ post.date | date: "%b %-d, %Y" }}
+            {% if post.categories != empty or post.tags != empty %}
+              {% include category_links.html categories=post.categories tags=post.tags %}
+            {% endif %}
+            {% if post.external-url %}
+              • <a href="{{ post.url | relative_url }}">Permalink</a>
+            {% endif %}
+          </p>
+        </header>
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
-  
-  
+        <div class="post-content">
+          {{ post.excerpt }}
+        </div>
+        {% if post.content contains site.excerpt_separator %}
+          <p class="post-continue">
+            <a href="{{ post.url | relative_url }}">Read on &rarr;</a>
+          </p>
+        {% endif %}
+      </li>
+	  
+ {% endfor %}
