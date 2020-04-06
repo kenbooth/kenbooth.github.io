@@ -3,7 +3,7 @@ layout: default
 title: Formatting options
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
