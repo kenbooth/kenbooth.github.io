@@ -1,1 +1,11 @@
+title: Ken Booth
 theme: jekyll-theme-cayman
+author: Ken Booth
+description: On the roll
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://kenbooth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en
+timezone: America/Chicago
+exclude:
+ - README.md
+ - CHANGELOG.md
