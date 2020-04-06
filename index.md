@@ -3,39 +3,18 @@ layout: default
 title: Ken Booth
 ---
 
-  {% for post in paginator.posts %}
-      {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
-      {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
+{% assign thedate = '' %}
 
-      <li{% if lang != empty %} lang="{{ lang }}"{% endif %}>
-        <header class="post-header">
-          <h1 class="post-title">
-            {% if post.external-url %}
-              <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
-            {% else %}
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            {% endif %}
-          </h1>
+{% for post in site.posts %}
 
-          <p class="post-meta">
-            {{ post.date | date: "%b %-d, %Y" }}
-            {% if post.categories != empty or post.tags != empty %}
-              {% include category_links.html categories=post.categories tags=post.tags %}
-            {% endif %}
-            {% if post.external-url %}
-              • <a href="{{ post.url | relative_url }}">Permalink</a>
-            {% endif %}
-          </p>
-        </header>
+    {% if thedate != post.date | date: "%m-%d-%Y" %}
+        <h2>{{ post.date | date: "%A, %B %e, %Y" }}</h2>
+    {% endif %}
 
-        <div class="post-content">
-          {{ post.excerpt }}
-        </div>
-        {% if post.content contains site.excerpt_separator %}
-          <p class="post-continue">
-            <a href="{{ post.url | relative_url }}">Read on &rarr;</a>
-          </p>
-        {% endif %}
-      </li>
-	  
- {% endfor %}
+    {% assign thedate = post.date | date: "%m-%d-%Y" %}
+
+    <h3 class="headline"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    {{ post.content }}
+    <hr>
+
+{% endfor %}
