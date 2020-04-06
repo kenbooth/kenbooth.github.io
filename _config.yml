@@ -9,5 +9,4 @@ timezone: America/Chicago
 exclude:
  - README.md
  - CHANGELOG.md
-show_downloads: true
 google_analytics:
