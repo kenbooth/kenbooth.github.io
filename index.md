@@ -3,18 +3,13 @@ layout: default
 title: Ken Booth
 ---
 
-{% assign thedate = '' %}
-<ul>
-  {% for post in site.posts %}
- 
-  {% if thedate != post.date | date: "%Y-%m-%d-" %}
-        <h2>{{ post.date | date: "%A, %B %e, %Y" }}</h2>
+{% for post in site.posts %}
+  {% capture currentdate %}{{post.date | date: "%A, %B %d, %Y"}}{% endcapture %}
+  {% if currentdate != thedate %}
+    <h2>{{ currentdate }}</h2>
+    {% capture thedate %}{{currentdate}}{% endcapture %} 
   {% endif %}
-  {% assign thedate = post.date | date: "%Y-%m-%d" %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	{% endfor %}
 
 
