@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Formatting options
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
