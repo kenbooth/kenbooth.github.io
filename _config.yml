@@ -10,3 +10,4 @@ exclude:
  - README.md
  - CHANGELOG.md
 google_analytics:
+paginate: 5
