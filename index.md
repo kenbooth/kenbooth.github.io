@@ -3,9 +3,6 @@ layout: default
 title: Ken Booth
 ---
 
-
-
-
 {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
