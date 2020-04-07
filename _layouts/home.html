@@ -11,7 +11,7 @@
     <h2>{{ currentdate }}</h2>
     {% capture thedate %}{{currentdate}}{% endcapture %} 
   {% endif %}
-   <p><strong>{{ post.title }}.</strong> {{ post.content | strip_html }}<a href="{{ post.url }}"># </a></p>
+   <p><strong>{{ post.title }}.</strong> {{ post.excerpt }}<a href="{{ post.url }}"># </a></p>
 {% endfor %}
 
     {% include footer.html %} 
