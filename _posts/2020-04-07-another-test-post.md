@@ -2,4 +2,4 @@
 layout: post
 title: Another test
 ---
-This is another test file.
+This is a test file.
