@@ -12,7 +12,7 @@ Modified from [Cayman theme](https://pages-themes.github.io/cayman/). View on [G
 ```
 ---
 layout: post
-title: Once again I can't get Jekyll to work on a Mac
+title: 
 date: 2020-04-07 14:04
 excerpt_separator: <!--more-->
 ---
