@@ -5,3 +5,4 @@ Modified from [Cayman theme](https://pages-themes.github.io/cayman/). View on [G
 
 ## Jekyll tools
 - [Cheat sheet](https://devhints.io/jekyll)
+- [How to group posts by date](https://stackoverflow.com/questions/18669143/how-to-group-posts-by-date-on-home-page-in-jekyll)
