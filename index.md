@@ -9,7 +9,7 @@ title: Ken Booth
     {{ currentdate }}
     {% capture thedate %}{{currentdate}}{% endcapture %} 
   {% endif %}
-   <a href="{{ post.url }}">{{ post.title }}. {{ post.excerpt }}</a>
+   <a href="{{ post.url }}">{{ post.title }}. {{ post.excerpt | strip_html }}</a>
 {% endfor %}
 
 
