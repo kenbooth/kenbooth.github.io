@@ -7,3 +7,11 @@ Modified from [Cayman theme](https://pages-themes.github.io/cayman/). View on [G
 - [Docs](https://jekyllrb.com/docs/)
 - [Cheat sheet](https://devhints.io/jekyll)
 - [How to group posts by date](https://stackoverflow.com/questions/18669143/how-to-group-posts-by-date-on-home-page-in-jekyll)
+
+## YAML Front Matter
+---
+layout: post
+title: Once again I can't get Jekyll to work on a Mac
+date: 2020-04-07 14:04
+excerpt_separator: <!--more-->
+---
