@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Off to some sort of a start
+title: Off to a start
 ---
-First post. Here we go.
+This is the first post. Here we go.
