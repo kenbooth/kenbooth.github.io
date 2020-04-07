@@ -11,7 +11,10 @@
     <h2>{{ currentdate }}</h2>
     {% capture thedate %}{{currentdate}}{% endcapture %} 
   {% endif %}
-   <p><a style="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a> {{ post.excerpt| remove: '<p>' | remove: '</p>' }}<a href="{{ post.url }}"># </a></p>
+  <p>
+	  <a style="homelink" href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}"><strong>{{ post.title }}.</strong></a>{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %} {{ post.excerpt| remove: '<p>' | remove: '</p>' }}<a href="{{ post.url }}"># </a>
+  </p>
+  <!-- p><a style="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a> {{ post.excerpt| remove: '<p>' | remove: '</p>' }}<a href="{{ post.url }}"># </a></p -->
 {% endfor %}
 
     {% include footer.html %} 
@@ -19,3 +22,10 @@
 	
   </body>
   </html>
+
+  
+  
+  <a href="{% if post.link %}{{ post.link }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a>{% if post.link %}<span class="link-arrow"> &rarr;</span>{% endif %}
+  
+  
+	 
