@@ -3,7 +3,13 @@
 
 @import "jekyll-theme-cayman";
 
+body {
+font-family: 'Merriweather', serif;
+}
+
 .project-name a {
+font-family: 'Oswald', sans-serif;
+font-weight:700;
 color: #ffffff;
 }
 
@@ -22,10 +28,6 @@ font-weight:700;
 font-family: 'Oswald', sans-serif;
 color: black;
 font-weight:700;
-}
-
-.body {
-font-family: 'Merriweather', serif;
 }
 
 .homelink {
