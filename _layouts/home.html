@@ -12,7 +12,7 @@
     {% capture thedate %}{{currentdate}}{% endcapture %} 
   {% endif %}
   <p>
-{% if post.link %}<img style="width:12px;height:16px;margin-bottom:-2px" src="/assets/images/external-link.png"> <a class="homelink" href="{{ post.link }}" target="_new">{{ post.title }}</a> {{ post.source }}{% else %}<!-- a class="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a -->{{ post.excerpt| remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}"># </a>{% endif %}<br>
+{% if post.link %}<img style="width:12px;height:16px;margin-bottom:-2px" src="/assets/images/external-link.png"> <a class="homelink" href="{{ post.link }}" target="_new">{{ post.title }}</a> <div class="homesource">{{ post.source }}</div>{% else %}<!-- a class="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a -->{{ post.excerpt| remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}"># </a>{% endif %}<br>
 <div class="break">&infin;</div>
   </p>
   <!-- p><a style="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a> {{ post.excerpt| remove: '<p>' | remove: '</p>' }}<a href="{{ post.url }}"># </a></p -->
