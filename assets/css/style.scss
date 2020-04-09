@@ -40,14 +40,22 @@ font-size: 6rem;
 text-shadow: 1px 1px black;
 }
 
+.project-tagline {
+font-family: 'Oswald', sans-serif;
+text-transform: none;
+font-size: 3.5rem;
+color: #ffffff;
+text-shadow: 1px 1px black;
+}
+
 .main-content h1 {
-font-family: 'Lato', serif;
+font-family: 'Lato', sans-serif;
 color: #373A3C;
 font-weight:900;
 }
 
 .main-content h2 {
-font-family: 'Lato',  serif;
+font-family: 'Lato',  sans-serif;
 color: #373A3C;
 font-weight:900;
 }
