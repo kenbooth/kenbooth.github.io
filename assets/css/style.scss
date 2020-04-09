@@ -20,6 +20,7 @@ font-family: 'Merriweather', serif;
 
 .project-name a {
 font-family: 'Oswald', sans-serif;
+text-transform: uppercase;
 color: #ffffff;
 text-shadow: 1px 1px black;
 }
@@ -27,6 +28,7 @@ text-shadow: 1px 1px black;
 .project-name a:hover {
 color: #f0ffff;
 text-decoration: none;
+text-transform: uppercase;
 text-shadow: 1px 1px black;
 }
 
