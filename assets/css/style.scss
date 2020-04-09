@@ -21,11 +21,13 @@ font-family: 'Merriweather', serif;
 .project-name a {
 font-family: 'Oswald', sans-serif;
 color: #ffffff;
+text-shadow: 1px 1px black;
 }
 
 .project-name a:hover {
 color: #f0ffff;
 text-decoration: none;
+text-shadow: 1px 1px black;
 }
 
 .main-content h1 {
