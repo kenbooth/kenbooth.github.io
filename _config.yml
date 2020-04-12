@@ -1,5 +1,6 @@
 title: Development Blog
-theme: jekyll-theme-cayman
+theme: alembic-jekyll-theme
+// theme: jekyll-theme-cayman
 author: Ken Booth
 description: Here We Are
 baseurl: "/" # the subpath of your site, e.g. /blog
