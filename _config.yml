@@ -1,6 +1,5 @@
 title: Daily Miscellany
-theme: alembic-jekyll-theme
-// theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 author: Ken Booth
 description: Sometimes Updated Daily
 baseurl: "/" # the subpath of your site, e.g. /blog
