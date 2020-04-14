@@ -32,6 +32,7 @@ font-family: 'Merriweather', serif;
 
   @include small {
     padding: 0rem 1rem;
+	line-height: .75;
 	}
 	}
 
@@ -39,7 +40,6 @@ font-family: 'Merriweather', serif;
 font-family: 'Oswald', sans-serif;
 text-transform: uppercase;
 color: #ffffff;
-line-height: .75;
 text-shadow: 1px 1px black;
   @include large {
     font-size: 5.25rem;
@@ -51,6 +51,7 @@ text-shadow: 1px 1px black;
 
   @include small {
     font-size: 3.75rem;
+    line-height: .75;
 	}
 }
 
