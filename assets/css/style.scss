@@ -23,15 +23,15 @@ font-family: 'Merriweather', serif;
     background-size: cover;
     background-position: bottom;
 	  @include large {
-    padding: 3rem 6rem;
+    padding: 1rem 6rem;
   }
 
   @include medium {
-    padding: 2rem 4rem;
+    padding: 1rem 4rem;
   }
 
   @include small {
-    padding: 1rem 1rem;
+    padding: 0rem 1rem;
 	}
 	}
 
@@ -78,7 +78,7 @@ font-family: 'Oswald', sans-serif;
 text-transform: none;
 font-size: 3.5rem;
 color: #ffffff;
-opacity: 0.3;
+opacity: 0.9;
 text-shadow: 1px 1px black;
   @include large {
     font-size: 3.25rem;
