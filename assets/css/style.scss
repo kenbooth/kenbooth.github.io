@@ -73,10 +73,12 @@ text-shadow: 1px 1px black;
 
 
 .project-tagline {
+margin-bottom: 1rem;
 font-family: 'Oswald', sans-serif;
 text-transform: none;
 font-size: 3.5rem;
 color: #ffffff;
+opacity: 0.3;
 text-shadow: 1px 1px black;
   @include large {
     font-size: 3.25rem;
