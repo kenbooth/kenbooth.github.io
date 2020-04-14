@@ -31,7 +31,7 @@ font-family: 'Merriweather', serif;
   }
 
   @include small {
-    padding: 0rem 1rem;
+    padding: 1rem 1rem;
 	}
 	}
 
@@ -50,7 +50,7 @@ text-shadow: 1px 1px black;
 
   @include small {
     font-size: 3.75rem;
-    line-height: .75;
+    line-height: 1;
 	}
 }
 
@@ -69,7 +69,7 @@ text-shadow: 1px 1px black;
 
   @include small {
     font-size: 3.75rem;
-	line-height: .75;
+	line-height: 1;
 	}
 }
 
