@@ -36,9 +36,20 @@ text-shadow: 1px 1px black;
 color: #f0ffff;
 text-decoration: none;
 text-transform: uppercase;
-font-size: 5.5rem;
 text-shadow: 1px 1px black;
+  @include large {
+    font-size: 5.25rem;
+  }
+
+  @include medium {
+    font-size: 4.25rem;
+  }
+
+  @include small {
+    font-size: 3.75rem;
+	}
 }
+
 
 .project-tagline {
 font-family: 'Oswald', sans-serif;
