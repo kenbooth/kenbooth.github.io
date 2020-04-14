@@ -32,7 +32,6 @@ font-family: 'Merriweather', serif;
 
   @include small {
     padding: 0rem 1rem;
-	line-height: .75;
 	}
 	}
 
@@ -57,7 +56,6 @@ text-shadow: 1px 1px black;
 
 .project-name a:hover {
 color: #f0ffff;
-line-height: .75;
 text-decoration: none;
 text-transform: uppercase;
 text-shadow: 1px 1px black;
@@ -71,6 +69,7 @@ text-shadow: 1px 1px black;
 
   @include small {
     font-size: 3.75rem;
+	line-height: .75;
 	}
 }
 
