@@ -90,17 +90,17 @@ color: #ffffff;
 opacity: 0.9;
 text-shadow: 1px 1px black;
   @include large {
-    font-size: 2.75rem;
+    font-size: 2rem;
 	margin-bottom: 1rem;
   }
 
   @include medium {
-    font-size: 2.75rem;
+    font-size: 1.75rem;
 	margin-bottom: 1rem;
   }
 
   @include small {
-    font-size: 2rem;
+    font-size: 1.5 rem;
 	margin-top: .5rem;
 	margin-bottom: 2rem;
 	}
