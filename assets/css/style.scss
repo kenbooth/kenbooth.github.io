@@ -101,6 +101,7 @@ text-shadow: 1px 1px black;
 
   @include small {
     font-size: 2rem;
+	margin-top: .5rem;
 	margin-bottom: 2rem;
 	}
 }
