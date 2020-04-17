@@ -4,7 +4,7 @@ title: End of the week links
 date: 2020-04-17 14:24
 ---
 
-- [How safe is it to eat takeout?](https://www.npr.org/sections/health-shots/2020/04/08/822903487/how-safe-is-it-to-eat-take-out) Pretty safe, according to the safety experts. But read the story to set your mind at ease.
+- [How safe is it to eat takeout?](https://www.npr.org/sections/health-shots/2020/04/08/822903487/how-safe-is-it-to-eat-take-out) Pretty safe, according to the experts. But read the story to set your mind at ease.
 - [The 50 best contemporary novels over 500 pages.](https://lithub.com/the-50-best-contemporary-novels-over-500-pages/) Based on the number of books on the list I've read and enjoyed, I'm going to take a closer look at the ones I haven't read.
 - [Judge rules embedding Instagram photo isn't copyright violation.](https://arstechnica.com/tech-policy/2020/04/judge-smacks-down-copyright-suit-over-instagram-embedding/). A New York federal judge says Mashable did not violate copyright law when it embedded an Instagram photo from photojournalist Stephanie Sinclair in an article.
 - [Here's where two-thirds of the world’s jets are taking a break.](https://www.bloomberg.com/news/features/2020-04-16/coronavirus-travel-what-happens-to-planes-grounded-by-covid-19) This is worth it just for the many photos of idled commercial jets.
