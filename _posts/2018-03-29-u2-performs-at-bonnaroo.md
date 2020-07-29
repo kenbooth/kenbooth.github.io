@@ -1,0 +1,7 @@
+---
+layout: post
+title: "U2 performs at Bonnaroo"
+date: "2018-03-29"
+---
+
+\[caption id="attachment\_1480" align="aligncenter" width="1500"\][![](images/DSC01514.jpg)](https://kenbooth.net/wp-content/uploads/2018/03/DSC01514.jpg) The crowd records the moment as U2 performs at Bonnaroo. June 9, 2017.\[/caption\]
