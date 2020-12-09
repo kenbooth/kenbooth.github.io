@@ -1,6 +1,7 @@
+---
 layout: post
 title: Review: The Holllow Places
-date: 2020-12-09
+date: 2020-12-09 08:46
 category: books
 ---
 After recently divorced Kara moves into her uncle's home she discovers through a hole in a wall a portal to an alternate and mysterious reality. This is the beginning to T. Kingfisher's horror novel The Hollow Places, a story that moves at a quick pace but offers too few spine-tingling scares.
