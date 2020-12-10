@@ -41,9 +41,9 @@ font-family: 'Merriweather', serif;
 .project-name {
 margin-top: 25px;
 margin-bottom:-25px;
-}	
-	
-	
+}
+
+
 .project-name a {
 font-family: 'Oswald', sans-serif;
 text-transform: uppercase;
@@ -122,6 +122,13 @@ margin-bottom: 10px;
 .main-content h2 {
 font-family: 'Lato',  sans-serif;
 font-size: 2.5rem;
+color: #606666;
+font-weight:900;
+}
+
+.main-content h3 {
+font-family: 'Lato',  sans-serif;
+font-size: 1.8rem;
 color: #606666;
 font-weight:900;
 }
