@@ -1,28 +1,26 @@
     {% include head.html %}
   <body>
     {% include title.html %}
-	
+
     <main id="content" class="main-content" role="main">
-		
-	
+
+
 {% for post in site.posts %}
   {% capture currentdate %}{{post.date | date: "%A, %B %d, %Y"}}{% endcapture %}
   {% if currentdate != thedate %}
     <h2>{{ currentdate }}</h2>
-    {% capture thedate %}{{currentdate}}{% endcapture %} 
+    {% capture thedate %}{{currentdate}}{% endcapture %}
   {% endif %}
   <p>
 <div class="homepost">
-{% if post.link %}<!-- img style="width:12px;height:16px;margin-bottom:-2px" src="/assets/images/external-link.png" --><a class="homelink" href="{{ post.link }}" target="_new">{{ post.title }}.</a> <span class="homesource">({{ post.source }})</span> {{ post.excerpt| remove: '<p>' | remove: '</p>' }} {% else %}<!-- a class="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a -->{{ post.excerpt }} <div class="homeanchor"><a href="{{ post.url }}"># Posted at {{ post.date | date: "%l:%M %P" }}</a></span>{% endif %}
+{% if post.link %}<!-- img style="width:12px;height:16px;margin-bottom:-2px" src="/assets/images/external-link.png" --><a class="homelink" href="{{ post.link }}" target="_new">{{ post.title }}.</a> <span class="homesource">({{ post.source }})</span> {{ post.excerpt| remove: '<p>' | remove: '</p>' }} {% else %}<!-- a class="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a -->{{ post.title}}<br>{{ post.excerpt }} <div class="homeanchor"><a href="{{ post.url }}"># Posted at {{ post.date | date: "%l:%M %P" }}</a></span>{% endif %}
 </div>
   </p>
   <!-- p><a style="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a> {{ post.excerpt| remove: '<p>' | remove: '</p>' }}<a href="{{ post.url }}"># </a></p -->
 {% endfor %}
 
-    {% include footer.html %} 
+    {% include footer.html %}
     </main>
-	
+
   </body>
   </html>
-  
-  
