@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: The Hollow Places
+title: Review of The Hollow Places
 date: 2020-12-09 08:46
 category: books
 excerpt_separator: <!--more-->
