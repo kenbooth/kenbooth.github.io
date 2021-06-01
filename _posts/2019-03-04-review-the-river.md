@@ -4,7 +4,7 @@ title: "Review: The River"
 date: "2019-03-04"
 ---
 
-![](images/613B57vAxRL._SX336_BO1204203200_-135x200.jpg)
+![](/assets/images/613B57vAxRL._SX336_BO1204203200_-135x200.jpg)
 
 A pair of college friends set out on a canoe trip on a remote Canadian river planning to bond over fishing, books and their love of outdoors. But they quickly find themselves in a desperate and brutal bid to survive the wilderness in Peter Hiller's _The River_.
 

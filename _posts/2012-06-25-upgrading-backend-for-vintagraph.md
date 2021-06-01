@@ -10,4 +10,4 @@ The site to this point has been made of hacks designed to make it perform like a
 
 It has taken close to two months to get everything moved to the new platform. Plus over 48 hours for DNS changes to propagate, which was very frustrating, but everything is working this morning. Of course there are the usual launch bugs, such as photos not showing up in old blog posts, but that will get sorted out over the next week.
 
-![](images/vintagraph-upgrade.png)
+![](/assets/images/vintagraph-upgrade.png)

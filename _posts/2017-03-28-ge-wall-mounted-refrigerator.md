@@ -4,7 +4,7 @@ title: "GE wall-mounted refrigerator history"
 date: "2017-03-28"
 ---
 
-\[caption id="attachment\_451" align="aligncenter" width="1200"\][![](images/ge-wall-mounted-refrigerato_grande.jpg)](https://kenbooth.net/ge-wall-mounted-refrigerator/ge-wall-mounted-refrigerato_grande-2/) Ge wall mounted refrigerator.\[/caption\]
+\[caption id="attachment\_451" align="aligncenter" width="1200"\][![](/assets/images/ge-wall-mounted-refrigerato_grande.jpg)](https://kenbooth.net/ge-wall-mounted-refrigerator/ge-wall-mounted-refrigerato_grande-2/) Ge wall mounted refrigerator.\[/caption\]
 
 \[caption id="attachment\_447" align="alignright" width="240"\][![GE wall-mounted refrigerator](images/wall-mounted-ge-3_medium.jpeg)](https://kenbooth.net/wp-content/uploads/2017/03/wall-mounted-ge-3_medium.jpeg) This photo on [Flickr](http://www.flickr.com/photos/8492055@N08/2844163346/) shows a working unit in a kitchen in Excelsior Springs, MO.\[/caption\]
 

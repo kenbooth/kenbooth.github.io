@@ -4,7 +4,7 @@ title: "WordCamp to go: Web typography"
 date: "2010-09-27"
 ---
 
-![](images/wordcamp-in-a-box.jpg)
+![](/assets/images/wordcamp-in-a-box.jpg)
 
 This is my second post from information I took away from [WordCamp Birmingham](http://wordcampbirmingham.org/). The notes below are simply things that were new or important to me and do not begin to cover all of the information offered. I’d recommend following the SlideShare links for more details.
 

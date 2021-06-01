@@ -4,7 +4,7 @@ title: "Review: Room to Dream"
 date: "2018-07-02"
 ---
 
-![](images/51byubQzJoL-132x200.jpg)The inscrutable auteur David Lynch has delivered a number of memorable films that enthrall and confuse viewers. In _[Room to Dream](https://amzn.to/2Nk4NKC)_ we get to peek behind the camera to see what drives the visionary director and artist.
+![](/assets/images/51byubQzJoL-132x200.jpg)The inscrutable auteur David Lynch has delivered a number of memorable films that enthrall and confuse viewers. In _[Room to Dream](https://amzn.to/2Nk4NKC)_ we get to peek behind the camera to see what drives the visionary director and artist.
 
 In this autobiographical work that's a collaboration between Lynch and Kristine McKenna, the chapters alternate between interviews with more than 100 colleagues, friends and family and Lynch's own recollections of events. The biography ranges from stories of his growing up in a small western town to the processes that went into creating such iconic works as _Eraserhead_, _The Elephant Man_, _Blue Velvet_, _Wild at Heart_, _Twin Peaks_ and _Mulholland Drive._
 

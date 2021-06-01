@@ -6,7 +6,7 @@ date: "2018-02-23"
 
 Interesting articles to peruse with your morning joe.
 
-![](images/3b50391u-Edit-800-189x200.jpg)
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)
 
 1. [Why mansions are artificially cheap and how you’re paying for them](https://techforhousing.org/why-mansions-are-artificially-cheap-88a2648668c5).
 2. [What may be the U.S.’s first drone-linked aircraft crash is being investigated](https://www.bloomberg.com/news/articles/2018-02-16/what-may-be-first-drone-linked-copter-crash-being-investigated). Investigators are also looking into a report that a drone [struck a helicopter](http://www.staradvertiser.com/2018/02/13/breaking-news/investigators-looking-into-report-that-drone-struck-kauai-tour-helicopter/) in Kauai. A frightening [close encounter](http://www.lasvegasnow.com/news/only-on-8-drone-flies-within-feet-of-arriving-aircraft-at-mccarran/949131909) of a drone and a passenger jet in Las Vegas. A [drone crashes](http://www.thedrive.com/aerial/18609/watch-a-drone-crash-onto-apple-park-campus-no-drone-zone) into Apple's new headquarters. Close encounters have led to [requests for tighter regulations](https://www.bloomberg.com/news/articles/2018-02-13/drone-s-close-encounter-with-airliner-spurs-call-to-tighten-laws).

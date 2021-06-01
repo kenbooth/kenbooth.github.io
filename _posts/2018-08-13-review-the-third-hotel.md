@@ -4,7 +4,7 @@ title: "Review: The Third Hotel"
 date: "2018-08-13"
 ---
 
-![](images/51M-JWBz76L-1-128x200.jpg)
+![](/assets/images/51M-JWBz76L-1-128x200.jpg)
 
 After arriving in Cuba for a film festival, Clare spots her husband standing outside of a museum. The thing is, he most certainly died shortly before the trip. Clair is bewildered, but determined to track down this doppelganger and have a conversation. 
 

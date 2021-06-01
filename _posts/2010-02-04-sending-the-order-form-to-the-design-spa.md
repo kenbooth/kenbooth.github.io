@@ -14,8 +14,8 @@ Our new cart lets people pay directly with a credit card or choose PayPal or Goo
 
 **Before**
 
-![](images/order-form-view-before.jpg)
+![](/assets/images/order-form-view-before.jpg)
 
 **After**
 
-![](images/order-form-view-after.jpg)
+![](/assets/images/order-form-view-after.jpg)

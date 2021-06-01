@@ -8,7 +8,7 @@ A roundup of brief reviews of books I read in August. Looking back it was a good
 
 **[The Line Becomes A River:](https://amzn.to/2oJlVhz)** Francisco Cantú's memoir of his years working as a border patrol agent and living along the Mexican border is an honest and timely book on immigration that doesn't get bogged down with rhetoric and politics. (5/5 stars.)
 
-![](images/51M-JWBz76L-1-128x200.jpg)
+![](/assets/images/51M-JWBz76L-1-128x200.jpg)
 
 [**The Third Hotel:**](https://amzn.to/2CmJC99) After arriving in Cuba for a film festival, Clare spots her husband standing outside of a museum. The thing is, he most certainly died shortly before the trip. This is a haunting and surreal novel that explores the psychic toll of grief. (5/5 stars.) [Read my full review.](https://kenbooth.net/review-the-third-hotel/) 
 

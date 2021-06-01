@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-06-29"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning coffee.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning coffee.
 
 1. [Live Nation rigged an entire concert to measure the biometrics of music fans.](https://www.fastcompany.com/40587749/live-nation-rigged-an-entire-concert-to-measure-the-biometrics-of-music-fans)
 2. [The trouble with Johnny Depp.](https://www.rollingstone.com/movies/features/johnny-depp-lawsuit-marriage-w521671)

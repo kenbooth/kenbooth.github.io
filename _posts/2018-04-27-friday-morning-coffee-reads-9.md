@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-04-27"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)Here is a regular roundup of interesting stories from the week.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)Here is a regular roundup of interesting stories from the week.
 
 1. [A landslide of classic art is about to enter the public domain.](https://www.theatlantic.com/amp/article/557420/)
 2. [There is an arms race in artificial intelligence.](http://www.spiegel.de/international/world/pedro-domingos-on-the-arms-race-in-artificial-intelligence-a-1203132.html)

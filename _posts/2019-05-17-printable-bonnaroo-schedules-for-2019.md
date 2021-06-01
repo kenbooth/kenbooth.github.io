@@ -8,7 +8,7 @@ For some reason festivals don't provide schedules formatted for printing and I u
 
 * * *
 
-![](images/screenshot-www.dropbox.com-2019.05.17-08-28-59-132x200.png)
+![](/assets/images/screenshot-www.dropbox.com-2019.05.17-08-28-59-132x200.png)
 
 This printable Bonnaroo schedule [posted to Reddit](https://www.reddit.com/r/bonnaroo/comments/bbarap/bonnaroo_19_printable_pocket_schedule/) is my favorite. It's truly pocket size and is legible. You can also download the schedule as an Excel file [directly from Dropbox](https://www.dropbox.com/s/h1zebfbqxcefrav/Bonnaroo%20printable%20pocket%20schedule%202019.xlsx?dl=0).
 
@@ -18,7 +18,7 @@ You should also note that schedules can and usually do change. It looks like thi
 
 * * *
 
-![](images/xvvt6h4t25y21-154x200.jpg)
+![](/assets/images/xvvt6h4t25y21-154x200.jpg)
 
 This is probably the [most beautifully illustrated schedule](https://www.reddit.com/r/bonnaroo/comments/bawe45/schedule_is_out/engnozh/?utm_source=share&utm_medium=web2x). I don't love the black background for printing, but it is nice to look at.
 
@@ -32,7 +32,7 @@ Download:
 
 * * *
 
-![](images/NwpUUvk-172x200.jpg)
+![](/assets/images/NwpUUvk-172x200.jpg)
 
 Here is another schedule that was posted to [Reddit](https://www.reddit.com/r/bonnaroo/comments/bxj23c/updated_schedule_in_picture_format/). You can download it directly [from here](https://imgur.com/gallery/pOMMn8h).
 
@@ -40,7 +40,7 @@ This one is nicely color coded and each day looks like it would easily print on 
 
 * * *
 
-[![](images/yyap2kuxtuu21-200x117.jpg)](https://i.redd.it/yyap2kuxtuu21.jpg)
+[![](/assets/images/yyap2kuxtuu21-200x117.jpg)](https://i.redd.it/yyap2kuxtuu21.jpg)
 
 This schedule was also [posted to Reddit](https://www.reddit.com/r/bonnaroo/comments/bi2cpw/printable_schedule_thanks_to_uc_onner_for_the/), but won't fit as neatly in the pocket. But it does provide a better look at each day's lineup and would be a good one to have around camp. You can download it [directly as a jpeg](https://i.redd.it/yyap2kuxtuu21.jpg).
 

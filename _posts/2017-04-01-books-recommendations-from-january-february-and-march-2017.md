@@ -13,7 +13,7 @@ Peter Godfrey-Smith's _Other Minds: The Octopus, the Sea, and the Deep Origins o
 
 Below are all of the books I've read so far this year. Anything 4-stars or above is worth reading. I'd pass on all of the 3- and 2-star picks.
 
-[![](images/30008702.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/30008702.jpg)[![](images/4143.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/4143.jpg)[![](images/23848051.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/23848051.jpg)[![](images/24611888.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/24611888.jpg)[![](images/29437949.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/29437949.jpg)[![](images/4900.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/4900.jpg)[![](images/9452960.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/9452960.jpg) [![](images/30687930.jpg)![](images/26025989-1.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/30687930.jpg) 
+[![](/assets/images/30008702.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/30008702.jpg)[![](/assets/images/4143.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/4143.jpg)[![](/assets/images/23848051.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/23848051.jpg)[![](/assets/images/24611888.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/24611888.jpg)[![](/assets/images/29437949.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/29437949.jpg)[![](/assets/images/4900.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/4900.jpg)[![](/assets/images/9452960.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/9452960.jpg) [![](/assets/images/30687930.jpg)![](/assets/images/26025989-1.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/30687930.jpg) 
 
 ### Books Read in March
 
@@ -35,7 +35,7 @@ _**Barrel Fever: Stories and Essays**_ by David Sedaris ★★★
 
 _**Nutshell**_ by Ian McEwan ★★★
 
-[![](images/11612989.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/11612989.jpg)[![](images/18498558.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/18498558.jpg)[![](images/17745.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/17745.jpg)[![](images/28116739.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/28116739.jpg)[![](images/8146890.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/8146890.jpg)[![](images/23513349.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/23513349.jpg)[![](images/9817868.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/9817868.jpg)[![](images/27280101.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/27280101.jpg)[![](images/23552568.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/23552568.jpg)[![](images/33313.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/33313.jpg)
+[![](/assets/images/11612989.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/11612989.jpg)[![](/assets/images/18498558.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/18498558.jpg)[![](/assets/images/17745.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/17745.jpg)[![](/assets/images/28116739.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/28116739.jpg)[![](/assets/images/8146890.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/8146890.jpg)[![](/assets/images/23513349.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/23513349.jpg)[![](/assets/images/9817868.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/9817868.jpg)[![](/assets/images/27280101.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/27280101.jpg)[![](/assets/images/23552568.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/23552568.jpg)[![](/assets/images/33313.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/33313.jpg)
 
 ### Books Read in February
 
@@ -59,7 +59,7 @@ _**Bird Box**_ by Josh Malerman ★★★★
 
 _**The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics**_ by Bruce Bueno De Mesquita ★★★★
 
-[![](images/26530320.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/26530320.jpg)[![](images/7324659.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/7324659.jpg)[![](images/29868610.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/29868610.jpg)[![](images/27276429.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/27276429.jpg)[![](images/20663088.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/20663088.jpg)[![](images/27071490.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/27071490.jpg)
+[![](/assets/images/26530320.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/26530320.jpg)[![](/assets/images/7324659.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/7324659.jpg)[![](/assets/images/29868610.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/29868610.jpg)[![](/assets/images/27276429.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/27276429.jpg)[![](/assets/images/20663088.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/20663088.jpg)[![](/assets/images/27071490.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/27071490.jpg)
 
 ### Books Read in January
 

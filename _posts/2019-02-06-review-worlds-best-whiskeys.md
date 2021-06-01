@@ -4,7 +4,7 @@ title: "Review: World's Best Whiskeys"
 date: "2019-02-06"
 ---
 
-![](images/worlds-best-whiskies-153x200.jpg)
+![](/assets/images/worlds-best-whiskies-153x200.jpg)
 
 Dominic Roskrow's _World's Best Whiskies_ is an exceptional example of what a guide to spirits should be. The book is a comprehensive overview of the many types of whiskies available around the world and includes reviews of 750 spirits.
 

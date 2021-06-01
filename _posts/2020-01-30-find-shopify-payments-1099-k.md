@@ -6,9 +6,9 @@ date: "2020-01-30"
 
 If you use Shopify Payments, you may wonder where to find the 1099-K you need for your business taxes. Shopify does not make it easy to find, but with the help of Shopify's chat support I was able to navigate to the form. I've outlined the steps below to find your Shopify 1099-K.
 
-![](images/shopify-view-payouts-768x253.png)
+![](/assets/images/shopify-view-payouts-768x253.png)
 
-![](images/Screen-Shot-2020-03-05-at-10.11.13-AM-768x72.jpg)
+![](/assets/images/Screen-Shot-2020-03-05-at-10.11.13-AM-768x72.jpg)
 
 1. Log into your dashboard and click on "Settings" at the bottom left of the screen.
 2. Click on "Payment Providers."

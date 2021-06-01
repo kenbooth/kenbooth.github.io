@@ -24,7 +24,7 @@ date: "2019-06-11"
 
 * * *
 
-[![](images/Untitled-design-90-768x292.png)](https://loeildelaphotographie.com/en/elspeth-diederix-when-red-disappears-bb/)
+[![](/assets/images/Untitled-design-90-768x292.png)](https://loeildelaphotographie.com/en/elspeth-diederix-when-red-disappears-bb/)
 
 **Elspeth Diederix's photo exhibition** _[When Red Disappears](https://loeildelaphotographie.com/en/elspeth-diederix-when-red-disappears-bb/)_ explores life on the seabed of the coast of the Netherlands at depths where the color red begin to vanish from the visible spectrum. The photos resemble oil paintings.
 

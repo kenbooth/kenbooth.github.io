@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-04-13"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A selection of stories to enjoy this Friday morning as you roll into the weekend.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A selection of stories to enjoy this Friday morning as you roll into the weekend.
 
 1. [Inside the worst U.S. maritime disaster in decades.](https://www.vanityfair.com/news/2018/04/inside-el-faro-the-worst-us-maritime-disaster-in-decades) A recording salvaged from three miles deep tells the story of the doomed “El Faro,” a cargo ship engulfed by a hurricane.
 2. [There’s a lot that goes into a riot. Here’s a closer look.](https://www.washingtonpost.com/blogs/post-partisan/wp/2018/04/06/theres-a-lot-that-goes-into-a-riot-heres-a-closer-look/)

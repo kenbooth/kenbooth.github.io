@@ -4,7 +4,7 @@ title: "Review: Janis"
 date: "2019-12-05"
 ---
 
-![](images/51g1GVJKhvL._SX329_BO1204203200_-133x200.jpg)
+![](/assets/images/51g1GVJKhvL._SX329_BO1204203200_-133x200.jpg)
 
 Following her breakout performance at the Monterey Pop Festival in 1967 Janis Joplin catapulted to stardom. Although it seemed like Joplin was an over night success, she cultivated her voice and singing style from an early age, mimicking classic blues performers such as Bessie Smith. But Joplin was plagued with a dark outlook on life that she held at bay with substance abuse.
 

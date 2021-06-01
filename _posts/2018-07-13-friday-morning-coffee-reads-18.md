@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-07-13"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning coffee.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning coffee.
 
 1. [The industrial era ended, and so will the digital era.](https://hbr.org/2018/07/the-industrial-era-ended-and-so-will-the-digital-era?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Artsjournal+%28ArtsJournal%29)
 2. [What I learned as a honeymoon planner for billionaires.](https://www.bloomberg.com/news/articles/2018-07-02/secrets-of-honeymoon-planners-for-billionaires)

@@ -4,7 +4,7 @@ title: "Review: An Orchestra of Minorities"
 date: "2019-02-11"
 ---
 
-![](images/41iOaviKFuL-129x200.jpg)
+![](/assets/images/41iOaviKFuL-129x200.jpg)
 
 Nigerian poultry farmer Chinonso risks his livelihood and undertakes an imprudent journey in a bid to impress the family of the woman he loves in _An Orchestra of Minorities_ by Chigozie Obioma.
 

@@ -4,7 +4,7 @@ title: "Review: Virgil Wander"
 date: "2018-10-09"
 ---
 
-![](images/51I4wcrJ4zL-132x200.jpg)
+![](/assets/images/51I4wcrJ4zL-132x200.jpg)
 
 Despite some dark themes, _[Virgil Wander](https://amzn.to/2C4MhTg)_ (digital galley, Grove Atlantic) is a remarkably humorous, feel-good novel. Virgil, the title character, is the owner of a one-screen movie theater in a struggling Lake Superior town who is dealing with the mental after effects of a serious, and spectacular, car accident.
 

@@ -4,7 +4,7 @@ title: "Review: The Warehouse"
 date: "2019-09-11"
 ---
 
-![](images/414BaNIxqaL-132x200.jpg)
+![](/assets/images/414BaNIxqaL-132x200.jpg)
 
 What would the world be like if Amazon ran everything: From housing to entertainment to food production? Rob Hart's new novel _The Warehouse_ gives a peak at that scenario with a thriller that explores a world governed with corporate diligence.
 

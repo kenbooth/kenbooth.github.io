@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-04-06"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)An assortment of articles to while away the hours this Friday morning.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)An assortment of articles to while away the hours this Friday morning.
 
 1. [Smartphone photography may subtly change what -- and how -- we remember.](https://www.vox.com/science-and-health/2018/3/28/17054848/smartphones-photos-memory-research-psychology-attention)
 2. [If you want a reservation at this Maine restaurant, you need to mail a letter.](http://www.grubstreet.com/2018/03/lost-kitchen-maine-reservations-mail.html) "You’re free to mail a handwritten request between April 1 and April 10. They’ll gather them all up and draw names in a lottery on April 11 to fill tables."

@@ -4,7 +4,7 @@ title: "Review: The Deserter"
 date: "2019-12-24"
 ---
 
-![](images/51AWVWSK75L-132x200.jpg)
+![](/assets/images/51AWVWSK75L-132x200.jpg)
 
 Nelson DeMille is back with another thriller, sharing writing duties with his son, Alex DeMille. In _The Deserter_, Army criminal investigators Scott Brodie and Maggie Taylor are trying to track down elite Delta Force officer Captain Kyle Mercer, who walked way from his post in Afghanistan.
 

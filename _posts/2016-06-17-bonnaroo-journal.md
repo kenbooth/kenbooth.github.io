@@ -13,6 +13,6 @@ coverImage: "DSC08707-2.jpg"
 - We got into the pit for 8 performances on the What and Which stages. On the What stage I’m no longer going to stand in the crowd behind the pit. It’s just not enjoyable. Better to go back up the hill and put a blanket on the ground. The ability to get up so close for so many acts makes the ticket price a bargain.
 - Pearl Jam’s Eddie Vedder stopped a few times during his set to share his thoughts about current events and politics. In this social media age it just sounded like he was reading some annoying Facebook posts. Thanks, Eddie for introducing angry, preachy politics into another aspect of my life.
 
-![](images/DSC09368-1024x683.jpg)
+![](/assets/images/DSC09368-1024x683.jpg)
 
-![](images/DSC08534-2-1024x683.jpg)
+![](/assets/images/DSC08534-2-1024x683.jpg)

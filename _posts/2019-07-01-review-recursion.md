@@ -4,7 +4,7 @@ title: "Review: Recursion"
 date: "2019-07-01"
 ---
 
-![](images/811i2lI31-L._AC_UL436_-132x200.jpg)
+![](/assets/images/811i2lI31-L._AC_UL436_-132x200.jpg)
 
 New York City police officer Barry Sutton gets wrapped up in a time-travel adventure while investigating the mysterious False Memory Syndrome, in Blake Crouch's _[Recursion](https://www.goodreads.com/book/show/42046112-recursion?from_search=true)_. Along the way he crosses paths with neuroscientist Helena Smith, who discovered the secret held in people's memories and realizes the danger she has unleashed.
 

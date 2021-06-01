@@ -4,7 +4,7 @@ title: "Review: The Wolf and the Watchman"
 date: "2019-03-04"
 ---
 
-![](images/41GxKD6VnhL-132x200.jpg)
+![](/assets/images/41GxKD6VnhL-132x200.jpg)
 
 Following a night of heavy drinking, one-armed night watchman Mikel Cardell is rousted to fish a limb-less body from a putrid Stockholm lake. Set in 1793, _The Wolf and the Watchman_ pairs Cardell with incorruptible investigator Cecil Winge, who is on the verge of death from consumption.
 

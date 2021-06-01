@@ -4,7 +4,7 @@ title: "Review: Beginning Pen & Ink"
 date: "2019-04-11"
 ---
 
-![](images/51dF1FHC1YL._SX383_BO1204203200_-154x200.jpg)
+![](/assets/images/51dF1FHC1YL._SX383_BO1204203200_-154x200.jpg)
 
 If you're looking for a little push to get started with drawing with pens, _Portfolio: Beginning Pen & Ink_ (digital galley, Quarto Publishing Group) is a good place to start. The book does not get bogged down in descriptions of equipment, as some art books do. It covers those basics quickly and moves on to instruction.
 

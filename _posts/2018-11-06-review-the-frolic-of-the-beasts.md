@@ -4,7 +4,7 @@ title: "Review: The Frolic of the Beasts"
 date: "2018-11-06"
 ---
 
-![](images/41J6KXBtVdL-130x200.jpg)
+![](/assets/images/41J6KXBtVdL-130x200.jpg)
 
 When a young Japanese student falls into the orbit of a beautiful woman and her husband, he is driven to an act of violence that unites the three in a corrupt love triangle fueled by desire and repentance. And that one impulsive act relentlessly leads to more brutality in the poetically written novel _[The Frolic of the Beasts](https://amzn.to/2DntvIp)_.
 

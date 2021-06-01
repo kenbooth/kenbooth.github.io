@@ -4,7 +4,7 @@ title: "Review: I Like to Watch"
 date: "2019-08-27"
 ---
 
-![](images/51fVT7IglKL-133x200.jpg)
+![](/assets/images/51fVT7IglKL-133x200.jpg)
 
 The last two decades have seen significant changes in TV -- from the quality of production to how it is consumed -- resulting in vastly improved entertainment options. In _I Like to Watch: Arguing My Way Through the TV Revolution_ critic Emily Nussbaum explores the television ecosystem in an anthology of essays.
 

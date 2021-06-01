@@ -4,7 +4,7 @@ title: "Review: Lessons From Lucy"
 date: "2018-12-27"
 ---
 
-![](images/513Pzz7lsHL-130x200.jpg)
+![](/assets/images/513Pzz7lsHL-130x200.jpg)
 
 Pulitzer Prize-winning humorist Dave Barry is back with a collection of stories related to life advice learned from his beloved dog, Lucy. In _[Lessons From Lucy](https://www.amazon.com/Lessons-Lucy-Simple-Joys-Happy-ebook/dp/B07CL5PVDB/ref=sr_1_1?ie=UTF8&qid=1545920931&sr=8-1&keywords=lessons+from+lucy)_ Barry ties stories from his life to something he learned from his aging dog, such as "make new friends."
 

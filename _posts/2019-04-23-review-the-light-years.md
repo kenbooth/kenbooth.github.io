@@ -4,7 +4,7 @@ title: "Review: The Light Years"
 date: "2019-04-23"
 ---
 
-![](images/51Vi9Phgu8L._SX331_BO1204203200_-133x200.jpg)
+![](/assets/images/51Vi9Phgu8L._SX331_BO1204203200_-133x200.jpg)
 
 Chris Rush began doing drugs at the age of 12 when his sister's friend gave him acid. This began his long embrace of the American counterculture of the 1960s and '70s, which Rush recalls in his poignant memoir _The Light Years_.
 

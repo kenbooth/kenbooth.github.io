@@ -4,7 +4,7 @@ title: "Review: Working with Color"
 date: "2019-05-23"
 ---
 
-![](images/51X1x1u6uL._SY346_-125x200.jpg)
+![](/assets/images/51X1x1u6uL._SY346_-125x200.jpg)
 
 _[The Urban Sketching Handbook: Working with Color](https://www.goodreads.com/book/show/41162565-the-urban-sketching-handbook)_ [](https://www.goodreads.com/book/show/41162565-the-urban-sketching-handbook) is both instructional and inspirational. The book teaches how to use color to convey mood and emotions in urban sketches and should appeal to anyone looking for guidance and fresh ideas.
 

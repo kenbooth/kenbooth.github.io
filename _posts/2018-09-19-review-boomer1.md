@@ -4,7 +4,7 @@ title: "Review: Boomer1"
 date: "2018-09-19"
 ---
 
-![](images/41iUsToIlL-132x200.jpg)
+![](/assets/images/41iUsToIlL-132x200.jpg)
 
 Mark Brumfeld is over educated, under employed, in debt and living in his parents basement. He finds himself there after his girlfriend, Cassie, rejects his marriage proposal and his job prospects in New York dry up.
 

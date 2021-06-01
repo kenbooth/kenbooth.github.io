@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-08-03"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday coffee.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday coffee.
 
 1. ["Taste communities" drive Netflix programming decisions.](http://www.latimes.com/business/hollywood/la-fi-ct-tca-netflix-cindy-holland-20180729-story.html)
 2. [No, you probably don't have a book in you.](https://theoutline.com/post/5541/unconventional-wisdom-you-should-not-write-a-book)

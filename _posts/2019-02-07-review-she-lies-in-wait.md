@@ -4,7 +4,7 @@ title: "Review: She Lies in Wait"
 date: "2019-02-07"
 ---
 
-![](images/61U4cP-3onL._SY346_-132x200.jpg)
+![](/assets/images/61U4cP-3onL._SY346_-132x200.jpg)
 
 Thirty years after going missing while on a camping trip with five other teenagers, a young girl's body is discovered buried with a drug cache. What was a decades-old missing persons case has turned into a murder investigation in Gytha Lodge's _She Lies in Wait_.
 

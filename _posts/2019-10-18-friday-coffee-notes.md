@@ -4,7 +4,7 @@ title: "Friday coffee notes"
 date: "2019-10-18"
 ---
 
-![](images/41SaVF6R41L-132x200.jpg)
+![](/assets/images/41SaVF6R41L-132x200.jpg)
 
 **This is a short review** of one of King's best recent novels, _[The Institute](https://www.goodreads.com/book/show/43798285-the-institute?from_search=true)_. The book explores relationships among children with "special talents" held and abused at a secret installation. This is a good-vs-evil story that's hard to put down.
 

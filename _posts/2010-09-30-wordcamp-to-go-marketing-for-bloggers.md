@@ -4,7 +4,7 @@ title: "WordCamp to go: Marketing for bloggers"
 date: "2010-09-30"
 ---
 
-![](images/wordcamp-in-a-box.jpg)
+![](/assets/images/wordcamp-in-a-box.jpg)
 
 This is information I took away from [WordCamp Birmingham](http://wordcampbirmingham.org/). The notes below are simply things that were new or important to me and do not begin to cover all of the information offered. I’d recommend following the SlideShare links for more details. Today’s post is my notes from **marketing strategies for bloggers**.
 

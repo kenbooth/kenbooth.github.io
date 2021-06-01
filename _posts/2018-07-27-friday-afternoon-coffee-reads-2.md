@@ -4,7 +4,7 @@ title: "Friday afternoon coffee reads"
 date: "2018-07-27"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning afternoon coffee.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning afternoon coffee.
 
 1. [Haruki Murakami's new novel declared 'indecent' by Hong Kong censors.](https://www.theguardian.com/books/2018/jul/25/haruki-murakami-novel-indecent-hong-kong-censors-killing-commendatore)
 2. [Why are there so many suckers? A neuropsychologist explains.](https://theconversation.com/why-are-there-so-many-suckers-a-neuropsychologist-explains-99980)

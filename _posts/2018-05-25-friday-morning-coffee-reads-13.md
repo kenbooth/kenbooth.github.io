@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-05-25"
 ---
 
-[![](images/3b50391u-Edit-800-189x200.jpg)](https://kenbooth.net/friday-morning-coffee-reads-2/3b50391u-edit-800/)A regular roundup of interesting stories from the week to enjoy wit your morning coffee.
+[![](/assets/images/3b50391u-Edit-800-189x200.jpg)](https://kenbooth.net/friday-morning-coffee-reads-2/3b50391u-edit-800/)A regular roundup of interesting stories from the week to enjoy wit your morning coffee.
 
 1. [Ex-clown is hard to hide on a resumé.](https://www.wsj.com/articles/the-hardest-career-juggle-finding-plan-b-for-jobless-clowns-1526918684)
 2. [Should we stop looking for intelligent life?](https://thesmartset.com/should-we-stop-looking-for-intelligent-life/)

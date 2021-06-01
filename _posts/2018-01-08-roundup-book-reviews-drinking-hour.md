@@ -9,7 +9,7 @@ Below is a roundup of books that will get you in the mood for happy hour. The tw
 
 ### Trappist Beer Travels
 
-![](images/trappist-212x300.jpg)Beer writers Caroline Wallace,‎ Sarah Wood and‎ Jessica Deahl undertook the enviable task of visiting every Trappist brewery in the world. The result of their work is [_Trappist Beer Travels_](http://amzn.to/2FeqGXK), which combines beer history with their travel journal.
+![](/assets/images/trappist-212x300.jpg)Beer writers Caroline Wallace,‎ Sarah Wood and‎ Jessica Deahl undertook the enviable task of visiting every Trappist brewery in the world. The result of their work is [_Trappist Beer Travels_](http://amzn.to/2FeqGXK), which combines beer history with their travel journal.
 
 Originally beer was brewed for the monks' consumption as it was a reliable way to make water safe and provided calories and nutrients. But brewing evolved into a source of revenue that helped support monastic operations and charitable projects.
 
@@ -21,7 +21,7 @@ The authors provide a history of each monastery and its brewing operations, alon
 
 ### Rum Curious: The Indispensable Tasting Guide to the World's Spirit
 
-![](images/51UF5qh4ocL._SX326_BO1204203200_-197x300.jpg)In [_Rum Curious_](http://amzn.to/2F2dS6B), Fred Minnick gives a shot history of rum and its distillation methods and a tumbler full of reviews of current rum releases.
+![](/assets/images/51UF5qh4ocL._SX326_BO1204203200_-197x300.jpg)In [_Rum Curious_](http://amzn.to/2F2dS6B), Fred Minnick gives a shot history of rum and its distillation methods and a tumbler full of reviews of current rum releases.
 
 I found the thorough rum reviews at the back of the book to be interesting and well worth the purchase for anyone hoping to explore the shelves of their local liquor store. Thought I imagine most of the releases would be hard to find at your corner store.
 
@@ -31,12 +31,12 @@ The author does have a chip on his shoulder about rum's place in the spirits wor
 
 ### Session Beers
 
-![](images/Session-Beers-Brewing-for-Flavor-and-Balance-by-Talley-Jennifer-203x300.jpeg)This book will be of most interest to brewers looking for very specific information about brewing session beers, which have a more modest alcohol level that allows for multiple drinks at a sitting. For the recreational drinker looking for a book to help guide them on their visits to local breweries, however, _[Session Beers](http://amzn.to/2Cq55d8)_ (Brewer Publications, digital galley) may be a little overwhelming.
+![](/assets/images/Session-Beers-Brewing-for-Flavor-and-Balance-by-Talley-Jennifer-203x300.jpeg)This book will be of most interest to brewers looking for very specific information about brewing session beers, which have a more modest alcohol level that allows for multiple drinks at a sitting. For the recreational drinker looking for a book to help guide them on their visits to local breweries, however, _[Session Beers](http://amzn.to/2Cq55d8)_ (Brewer Publications, digital galley) may be a little overwhelming.
 
 The first half of the book, by Jennifer Talley, is an overview of the concept of session beers and the many types available. The second part is dedicated to recipes for specific session beers. Unfortunately even the first part of the book gets too tied up with the process of brewing to be of much interest to recreational drinkers. But if your a serious brewer looking for guidance, this might be the book for you.
 
 ### Glass Half Full: The Ups and Downs of Vineyard Life in France
 
-![](images/Glass-Half-Full-The-Ups-and-Downs-of-Vineyard-Life-in-France-The-Caro-Feely-Wine-Collection-by-Feely-Caro-196x300.jpeg)Running a small winery can be tough. Running a small, organic winery can be tougher. But running a small, organic winery in France, with its strict labor and business regulations, seems a Herculean task. In [_Glass Half Full_](http://amzn.to/2AF6ElA) (Trafalgar Square Publishing, digital galley) Caro Feely shares the ups and many downs of running the organic Chateau Feely winery along with her husband Seán.
+![](/assets/images/Glass-Half-Full-The-Ups-and-Downs-of-Vineyard-Life-in-France-The-Caro-Feely-Wine-Collection-by-Feely-Caro-196x300.jpeg)Running a small winery can be tough. Running a small, organic winery can be tougher. But running a small, organic winery in France, with its strict labor and business regulations, seems a Herculean task. In [_Glass Half Full_](http://amzn.to/2AF6ElA) (Trafalgar Square Publishing, digital galley) Caro Feely shares the ups and many downs of running the organic Chateau Feely winery along with her husband Seán.
 
 Unfortunately this third installment of the Feely wine odyssey is a muddled affair as the author tries to pull together too many themes. She writes of a troubled marriage, life as an outsider, the trials of running a small business, the joys of organic living and the dangers of chemicals in society. _Glass Half Full_ (Trafalgar Square Publishing, digital galley) jumps from topic to topic without exploring any one in a satisfying way.

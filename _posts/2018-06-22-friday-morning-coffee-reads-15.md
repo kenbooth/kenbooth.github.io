@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-06-22"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning coffee.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning coffee.
 
 1. [Virtual reality so good Disney should just buy the whole company.](https://www.fastcompany.com/40579993/disney-should-own-theme-parks-vr-and-ar-infused-future)
 2. [The politicization of everything.](https://www.nationalreview.com/2018/06/politics-mainstream-culture-politicization-of-everything/)

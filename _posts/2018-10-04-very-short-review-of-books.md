@@ -6,7 +6,7 @@ date: "2018-10-04"
 
 A roundup of brief reviews of books I read in September. There were a number of good books from the month and it was heavy on sci-fi. _Cherry_ is among the best books I've read this year and one to get you thinking. Fans of funny science fiction should start reading the Murderbot Diaries immediately. 
 
-![](images/61wgnJUCtlL-133x200.jpg)
+![](/assets/images/61wgnJUCtlL-133x200.jpg)
 
 **[Cherry](https://amzn.to/2E9Z4qn):** This, one of the best novels of the year, is a fictionalized version of the author's life. It's an engaging, depressing, quick moving story of a tour of duty in Iraq, PTSD, heroin abuse and bank robberies. I'm not sure that you're supposed to like the unnamed main character, but it's certainly possible.  (5/5 stars.)
 
@@ -14,7 +14,7 @@ A roundup of brief reviews of books I read in September. There were a number of 
 
 **[All Systems Red](https://amzn.to/2Pa4Uc1)**: Book one in the Murderbot Diaries is a quick and fun thriller told from the point of view of a gloomy and sarcastic robot trying to help a science team survive on a remote planet. (5/5 stars.)
 
-![](images/41ycG6lgrL._SY346_-125x200.jpg)
+![](/assets/images/41ycG6lgrL._SY346_-125x200.jpg)
 
 **[Artificial Condition](https://amzn.to/2P6Vm1w)**: Book two in the Murderbot Diaries follows our sarcastic robot as it tries to unravel a secret from its past.  (5/5 stars.)
 

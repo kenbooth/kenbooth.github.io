@@ -4,7 +4,7 @@ title: "Review: The Plotters"
 date: "2019-02-26"
 ---
 
-![](images/51ZH8MpRr-L-132x200.jpg)
+![](/assets/images/51ZH8MpRr-L-132x200.jpg)
 
 In _The Plotters_, groups of assassins do the dirty work of mysterious criminal masterminds. When one assassin, Reseng, takes liberties on a couple of assignments, he disrupts the carefully crafted plans of one anonymous "plotter" and puts his own life at risk.
 

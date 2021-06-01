@@ -4,7 +4,7 @@ title: "Using RapidWeaver to rebuild a site"
 date: "2019-05-30"
 ---
 
-[![](images/download-300x293.png)](https://historicstock.com)
+[![](/assets/images/download-300x293.png)](https://historicstock.com)
 
 I rebuilt the [Historic Stock website](https://historicstock.com) today using [RapidWeaver 8](https://www.realmacsoftware.com/rapidweaver/). The site isn't big enough to warrant a full blown CMS like WordPress or Drupal. But manually coding every time I wanted to make a change was going to be a pain. RapidWeaver allows me to periodically tweek or add content without too much heavy lifting. The learning curve wasn't too great and can be applied to other projects.
 

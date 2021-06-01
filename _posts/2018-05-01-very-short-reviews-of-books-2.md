@@ -6,7 +6,7 @@ date: "2018-05-01"
 
 The original, and surreal, _Spaceman of Bohemia_ is highly recommended. _The Mars Room_ and _I am, I am, I am_ area also among my favorites from April.
 
-![](images/51F5xcar7mL-133x200.jpg)[**Spaceman of Bohemia**](https://amzn.to/2JB7e9w): Czech astronaut Jakub Procházka leaves his wife behind and heads on a mission to Venus where he befriends a possibly-real, alien spider. (5/5 stars.)
+![](/assets/images/51F5xcar7mL-133x200.jpg)[**Spaceman of Bohemia**](https://amzn.to/2JB7e9w): Czech astronaut Jakub Procházka leaves his wife behind and heads on a mission to Venus where he befriends a possibly-real, alien spider. (5/5 stars.)
 
 [**The Mars Room**](https://amzn.to/2FbAIaX): A bad history with an obsessive strip club visitor leads a young mother to an unfortunate encounter and two life sentences in prison. This is a brutal, yet empathetic look at a life gone sideways. (5/5 stars.) [Read my full review](https://kenbooth.net/review-the-mars-room/).
 

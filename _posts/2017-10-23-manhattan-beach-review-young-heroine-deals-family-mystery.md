@@ -7,7 +7,7 @@ coverImage: "manhattan-beach-art.jpg"
 
 During the Great Depression, young Anna Kerrigan regularly accompanies her father on his work as a union courier. But one morning he walks out the door and disappears, leaving Anna and her mother to take care of Anna's disabled sister.
 
-![](images/Manhattan-Beach-A-Novel-by-Egan-Jennifer-199x300.jpeg)
+![](/assets/images/Manhattan-Beach-A-Novel-by-Egan-Jennifer-199x300.jpeg)
 
 Years later, to help provide for her family during WWII, Anna works at the Brooklyn Navy Yard measuring machine parts and later as a female diver. While at a nightclub one evening she crosses paths with someone from her father's past and she sets out to find out what happened to him many years before.
 

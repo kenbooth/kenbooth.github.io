@@ -4,7 +4,7 @@ title: "Review: Once More Unto the Breach"
 date: "2019-06-11"
 ---
 
-![](images/41yIVjHb1ML-130x200.jpg)
+![](/assets/images/41yIVjHb1ML-130x200.jpg)
 
 During the Allied liberation of Europe Rhys Gravenor, a Welsh farmer, travels to France looking for his son in _[Once More Unto the Breach](https://www.goodreads.com/book/show/42647044-once-more-unto-the-breach?from_search=true)_. With the help of American ambulance driver Charlotte Dubois he sets off on a roadtrip across the country following clues and encountering one dangerous situation after another.
 

@@ -5,7 +5,7 @@ date: "2017-05-10"
 coverImage: "blindness.jpg"
 ---
 
-![](images/26114149.jpg)![](images/18774964.jpg)![](images/30145126.jpg)![](images/1528410.jpg)![](images/2526.jpg)![](images/5759.jpg)![](images/23164927.jpg)
+![](/assets/images/26114149.jpg)![](/assets/images/18774964.jpg)![](/assets/images/30145126.jpg)![](/assets/images/1528410.jpg)![](/assets/images/2526.jpg)![](/assets/images/5759.jpg)![](/assets/images/23164927.jpg)
 
  
 

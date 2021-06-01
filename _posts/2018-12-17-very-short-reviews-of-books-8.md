@@ -6,7 +6,7 @@ date: "2018-12-17"
 
 A roundup of books I read in November. Haruki Murakami's _Killing Commendatore_ and Stephen Markley's _Ohio_ were the two best books of the month. In fact, those are the only two books I would definitely recommend. Unless you're an aspiring diarist, in which case you should read _Writing Down the Bones_.
 
-![](images/Untitled-design-31.png)
+![](/assets/images/Untitled-design-31.png)
 
 **[Killing Commendatore:](https://www.amazon.com/Killing-Commendatore-novel-Haruki-Murakami-ebook/dp/B079WM2HMV/ref=sr_1_1?ie=UTF8&qid=1544738065&sr=8-1&keywords=killing+commendatore)** The plots of Haruki Murakami novels are always difficult to describe. In his latest epic work, the physical manifestation of an _idea_ appears to guide a portrait painter through a life altering journey. Really, all that needs saying is you should read this novel by one of our best living authors. (5/5 stars.)
 

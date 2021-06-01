@@ -4,7 +4,7 @@ title: "You can no longer share Audible audio clips"
 date: "2019-05-16"
 ---
 
-![](images/IMG_2084-473x1024.png)
+![](/assets/images/IMG_2084-473x1024.png)
 
 The share option has disappeared from Audible audio clips.
 

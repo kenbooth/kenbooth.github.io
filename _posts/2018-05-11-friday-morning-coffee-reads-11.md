@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-05-11"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories from the week to enjoy with your morning coffee.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories from the week to enjoy with your morning coffee.
 
 1. [A criminal gang used a drone swarm to harass an FBI raid.](https://www.defenseone.com/technology/2018/05/criminal-gang-used-drone-swarm-obstruct-fbi-raid/147956/)
 2. [An oral history  of Johnny Cash's](https://www.rollingstone.com/country/features/johnny-cashs-at-folsom-prison-an-oral-history-w519873) [_At Folsom Prison_](https://www.rollingstone.com/country/features/johnny-cashs-at-folsom-prison-an-oral-history-w519873) [at 50.](https://www.rollingstone.com/country/features/johnny-cashs-at-folsom-prison-an-oral-history-w519873)

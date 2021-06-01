@@ -4,7 +4,7 @@ title: "WordCamp to go: Assorted links"
 date: "2010-09-29"
 ---
 
-![](images/wordcamp-in-a-box.jpg)
+![](/assets/images/wordcamp-in-a-box.jpg)
 
 While things are fresh in my mind I am going to jot down a few the notes I took away from [WordCamp Birmingham](http://wordcampbirmingham.org/). The notes below are simply things that were new or important to me and do not begin to cover all of the information offered.
 

@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-07-06"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning coffee.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning coffee.
 
 1. [Should you use expensive or cheap whiskey in a cocktail?](http://whiskyadvocate.com/dram-debate-expensive-cheap-whiskey/)
 2. [45 things I learned in the Gulag.](https://www.theparisreview.org/blog/2018/06/12/forty-five-things-i-learned-in-the-gulag/) From the book _[Kolyma Stories](https://amzn.to/2lXAKfj)_.

@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-05-18"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories from the week to enjoy with your morning coffee.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories from the week to enjoy with your morning coffee.
 
 1. [The all-American bank heist.](http://www.davidkushner.com/article/the-all-american-bank-heist/)
 2. [Why the dancing makes 'This Is America' so uncomfortable to watch.](https://www.theatlantic.com/entertainment/archive/2018/05/this-is-america-childish-gambino-donald-glover-kinesthetic-empathy-dance/559928/)

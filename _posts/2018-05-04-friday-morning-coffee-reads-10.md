@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-05-04"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories from the week. If you're in need of a good book, check out my latest [very short reviews of books](https://kenbooth.net/very-short-reviews-of-books-2/).
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories from the week. If you're in need of a good book, check out my latest [very short reviews of books](https://kenbooth.net/very-short-reviews-of-books-2/).
 
 1. [The return of the brick-and-mortar store.](https://www.bloomberg.com/view/articles/2018-05-01/e-commerce-costs-rise-just-as-commercial-real-estate-costs-fall)
 2. [Is Marvel Killing the Movies?](https://newrepublic.com/article/148198/marvel-killing-movies)

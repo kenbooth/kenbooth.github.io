@@ -6,7 +6,7 @@ date: "2018-03-02"
 
 Some interesting stories to read while you begin the end of your week.
 
-1. ![](images/3b50391u-Edit-800-189x200.jpg)[Urban bird feeders are changing the course of evolution.](https://www.theatlantic.com/science/archive/2018/01/urban-birds-are-evolving-to-be-fed/551120/)
+1. ![](/assets/images/3b50391u-Edit-800-189x200.jpg)[Urban bird feeders are changing the course of evolution.](https://www.theatlantic.com/science/archive/2018/01/urban-birds-are-evolving-to-be-fed/551120/)
 2. [A stolen Degas painting is recovered -- on a bus.](https://www.npr.org/sections/thetwo-way/2018/02/24/588537379/customs-agents-search-a-bus-near-paris-and-discover-a-stolen-degas-painting?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Artsjournal+%28ArtsJournal%29)
 3. [Twenty years after its launch, Rotten Tomatoes' verdict is now seen as vital to a film’s success or failure. Is the site too influential for its own good?](https://www.theguardian.com/film/2018/feb/26/rotten-tomatoes-hollywood-love-hate-relationship)
 4. [The tyranny of convenience.](https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html)

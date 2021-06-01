@@ -4,7 +4,7 @@ title: "Review: The Dreamers"
 date: "2019-02-12"
 ---
 
-![](images/51RKASJImqL-132x200.jpg)
+![](/assets/images/51RKASJImqL-132x200.jpg)
 
 It all starts with one college student falling asleep and not waking up. But the sleeping sickness quickly spreads through a small California town in Karen Thompson Walker's unique and authentic dystopian thriller _The Dreamers_.
 

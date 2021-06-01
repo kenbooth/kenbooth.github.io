@@ -6,7 +6,7 @@ date: "2018-11-06"
 
 A roundup of brief reviews of books I read in October. _Virgil Wander_ will probably make it to best books of 2018 list.
 
-![](images/51I4wcrJ4zL-132x200.jpg)
+![](/assets/images/51I4wcrJ4zL-132x200.jpg)
 
 [**Virgil Wander**](https://amzn.to/2C4MhTg)**:** This appealing novel mixes offbeat characters and nostalgic settings with some dark themes as a man struggles to recover from a serious car accident in a town plagued by tragedy. (5/5 stars.) [Read my full review](https://kenbooth.net/review-virgil-wander/).
 
@@ -16,7 +16,7 @@ A roundup of brief reviews of books I read in October. _Virgil Wander_ will prob
 
 **[The Frolic of the Beasts](https://amzn.to/2DntvIp):**  A student is driven to an impulsive act of violence that forms the bond of an unusual love triangle in this translation of a 1961 Japanese classic. (4/5 stars.) [Read my full review](https://kenbooth.net/review-the-frolic-of-the-beasts/).
 
-![](images/41KbdykUWlL-126x200.jpg)
+![](/assets/images/41KbdykUWlL-126x200.jpg)
 
 **[Rogue Protocol](https://amzn.to/2AQefRK):** Book three in The Murderbot Diaries series follows the gloomy protagonist robot as he continues to intervene in human affairs, despite a desire to just be left alone. (4/5 stars.)
 

@@ -25,4 +25,4 @@ About a 30-minute ride down the coast from Bald Point is the [Wildwood Golf Reso
 
 If you’re still looking for something to do, Captain Billy Bowlegs is reported to have buried a treasure at Bald Point, Florida. If true, it’s probably sitting under the Gulf waters due to the receding coastline, but it may be worth a look.
 
-![](images/jelly-fish-bald-point-florida.jpg)_Jellyfish caught in tide pool. Bald Point, Florida. March 2013._
+![](/assets/images/jelly-fish-bald-point-florida.jpg)_Jellyfish caught in tide pool. Bald Point, Florida. March 2013._

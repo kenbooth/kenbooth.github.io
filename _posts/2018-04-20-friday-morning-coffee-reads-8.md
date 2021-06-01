@@ -4,7 +4,7 @@ title: "Friday morning coffee reads"
 date: "2018-04-20"
 ---
 
-![](images/3b50391u-Edit-800-189x200.jpg)A weekly compendium of interesting articles. Grind, brew, sip and enjoy.
+![](/assets/images/3b50391u-Edit-800-189x200.jpg)A weekly compendium of interesting articles. Grind, brew, sip and enjoy.
 
 1. [Inside the booming black market for Spotify playlists.](https://www.dailydot.com/upstream/spotify-playlist-black-market/)
 2. [Why disco should be taken seriously.](http://www.bbc.com/culture/story/20180403-why-disco-should-be-taken-seriously)

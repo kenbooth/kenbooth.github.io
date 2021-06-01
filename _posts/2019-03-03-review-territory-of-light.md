@@ -4,7 +4,7 @@ title: "Review: Territory of Light"
 date: "2019-03-03"
 ---
 
-![](images/31Bjev12F3L._SX331_BO1204203200_-133x200.jpg)
+![](/assets/images/31Bjev12F3L._SX331_BO1204203200_-133x200.jpg)
 
 A young, newly single woman struggles to raise her three-year-old daughter in Tokyo in Yūko Tsushima's _Territory of Light,_ an empathetic and compelling look at single motherhood.
 
