@@ -1,7 +1,7 @@
 title: Pyrotomic
 theme: jekyll-theme-cayman
 author: Ken Booth
-description: Daily Miscellany
+description: Ken Booth
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://kenbooth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
