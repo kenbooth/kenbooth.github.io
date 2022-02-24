@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Art of Map Illustration'
+date: 2018-06-04 00:00:00 -05:00
 layout: post
-title: "Review: The Art of Map Illustration"
-date: "2018-06-04"
 ---
 
 ![](/assets/images/61BoJtQQNjL._SX373_BO1204203200_-150x200.jpg)Four artists share their techniques for mapmaking as well as samples of their work in [_The Art of Map Illustration_](https://amzn.to/2Hk4YkM). The book is full of beautiful illustrations by each of the artists, who employ a variety of media including pen, ink, watercolor and digital.

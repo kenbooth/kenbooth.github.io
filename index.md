@@ -1,4 +1,5 @@
 ---
-layout: home
 title: Ken Booth
+layout: home
 ---
+

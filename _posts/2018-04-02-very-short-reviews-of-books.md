@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-04-02 00:00:00 -05:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-04-02"
 ---
 
 A roundup of very short reviews of books I read in March. _The Sun Does Shine_ is one of the books you must read this year. Everything else I read in March was also solid and worth your attention.

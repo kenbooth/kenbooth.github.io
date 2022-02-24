@@ -1,7 +1,7 @@
 ---
+title: What photography is doing to our memories
+date: 2018-04-10 00:00:00 -05:00
 layout: post
-title: "What photography is doing to our memories"
-date: "2018-04-10"
 ---
 
 I joined Kenny Smith on [The Best Story I've Heard Today](https://beststory.podbean.com/) podcast to discuss the Vox story "[What smartphone photography is doing to our memories](https://www.vox.com/science-and-health/2018/3/28/17054848/smartphones-photos-memory-research-psychology-attention)."

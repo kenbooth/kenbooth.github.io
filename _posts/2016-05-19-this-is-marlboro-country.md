@@ -1,8 +1,8 @@
 ---
+title: This is Marlboro country
+date: 2016-05-19 00:00:00 -05:00
 layout: post
-title: "This is Marlboro country"
-date: "2016-05-19"
-coverImage: "FullSizeRender.jpg"
+coverImage: FullSizeRender.jpg
 ---
 
 I created this piece of pop art circa 1979 for a school assignment. In the 1970s featuring cigarettes in a middle school assignment was completely acceptable.

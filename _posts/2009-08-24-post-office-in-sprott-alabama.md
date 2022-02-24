@@ -1,8 +1,8 @@
 ---
+title: Post Office in Sprott, Alabama
+date: 2009-08-24 00:00:00 -05:00
 layout: post
-title: "Post Office in Sprott, Alabama"
-date: "2009-08-24"
-coverImage: "00243u_1_0.jpg"
+coverImage: 00243u_1_0.jpg
 ---
 
 The interior of the old Post Office in Sprott, Alabama, made [famous by Walker Evans](http://www.shorpy.com/node/135?size=_original#caption). It’s now an antique store.

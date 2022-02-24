@@ -1,7 +1,7 @@
 ---
+title: 'Review: The River'
+date: 2019-03-04 00:00:00 -06:00
 layout: post
-title: "Review: The River"
-date: "2019-03-04"
 ---
 
 ![](/assets/images/613B57vAxRL._SX336_BO1204203200_-135x200.jpg)

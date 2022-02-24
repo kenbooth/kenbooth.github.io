@@ -1,7 +1,7 @@
 ---
+title: Poll daddy and other links
+date: 2008-08-01 00:00:00 -05:00
 layout: post
-title: "Poll daddy and other links"
-date: "2008-08-01"
 ---
 
 [PollDaddy](http://polldaddy.com/): Create online surveys and polls.

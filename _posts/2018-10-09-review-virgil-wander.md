@@ -1,7 +1,7 @@
 ---
+title: 'Review: Virgil Wander'
+date: 2018-10-09 00:00:00 -05:00
 layout: post
-title: "Review: Virgil Wander"
-date: "2018-10-09"
 ---
 
 ![](/assets/images/51I4wcrJ4zL-132x200.jpg)

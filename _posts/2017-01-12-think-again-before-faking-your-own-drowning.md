@@ -1,8 +1,8 @@
 ---
+title: Think again before faking your own drowning
+date: 2017-01-12 00:00:00 -06:00
 layout: post
-title: "Think again before faking your own drowning"
-date: "2017-01-12"
-coverImage: "IMG_2796.jpg"
+coverImage: IMG_2796.jpg
 ---
 
 In _[Playing Dead: A Journey Through the World of Death Fraud](http://amzn.to/2jcBa1y)_ author Elizabeth Greenwood recounts several stories of individuals attempting, with varying results, to fake their own deaths. As it turns out, it's a hard thing to do successfully and there are many ways in which such attempts frequently fail.

@@ -1,7 +1,7 @@
 ---
+title: 'Review: Recursion'
+date: 2019-07-01 00:00:00 -05:00
 layout: post
-title: "Review: Recursion"
-date: "2019-07-01"
 ---
 
 ![](/assets/images/811i2lI31-L._AC_UL436_-132x200.jpg)

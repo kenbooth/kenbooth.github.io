@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "'Paradox Bound' is a road-trip through time"
-date: "2017-09-30"
+date: 2017-09-30 00:00:00 -05:00
+layout: post
 ---
 
 ![Paradox Bound review](images/paradox-bound-132x200.jpg)When a book's description mentions time travel I'm usually hooked. And because I thoroughly enjoyed Peter Clines' _14_ and _The Fold_, I enthusiastically jumped into his latest, [_Paradox Bound_](http://amzn.to/2yGqE7z) (Crown Publishing, digital galley).

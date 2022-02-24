@@ -1,7 +1,7 @@
 ---
+title: Blogopticon and other links
+date: 2008-06-19 00:00:00 -05:00
 layout: post
-title: "Blogopticon and other links"
-date: "2008-06-19"
 ---
 
 [Blogopticon](http://www.vfdaily.com/culture/2008/blogopticon/index.html): Blogging scatter plot.

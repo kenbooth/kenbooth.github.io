@@ -1,7 +1,7 @@
 ---
+title: The Bank of Starbucks
+date: 2016-06-16 00:00:00 -05:00
 layout: post
-title: "The Bank of Starbucks"
-date: "2016-06-16"
 ---
 
 > Starbucks Corp. \[has\] $1.2 billion loaded onto Starbucks cards and the Starbucks mobile app as of the first quarter of 2016, according to the data. This money can be used to purchase items including drinks, food and other merchandise.

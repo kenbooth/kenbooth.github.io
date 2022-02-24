@@ -1,7 +1,7 @@
 ---
+title: 'Carrie Fisher: I had to comport myself with something approaching dignity'
+date: 2017-03-29 00:00:00 -05:00
 layout: post
-title: "Carrie Fisher: I had to comport myself with something approaching dignity"
-date: "2017-03-29"
 ---
 
 > Had I known it was going to make that loud of a noise, I would’ve dressed better for those talk shows and definitely would have argued against that insane hair (although the hair was, in its own modest way, a big part of that noise). And I certainly wouldn’t have ever just blithely signed away any and all merchandising rights relating to my image and otherwise.

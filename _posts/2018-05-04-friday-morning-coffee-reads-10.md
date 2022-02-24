@@ -1,7 +1,7 @@
 ---
+title: Friday morning coffee reads
+date: 2018-05-04 00:00:00 -05:00
 layout: post
-title: "Friday morning coffee reads"
-date: "2018-05-04"
 ---
 
 ![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories from the week. If you're in need of a good book, check out my latest [very short reviews of books](https://kenbooth.net/very-short-reviews-of-books-2/).

@@ -1,8 +1,8 @@
 ---
+title: Warren Dunes State Park
+date: 2016-05-13 00:00:00 -05:00
 layout: post
-title: "Warren Dunes State Park"
-date: "2016-05-13"
-coverImage: "warren-dunes-state-park.jpg"
+coverImage: warren-dunes-state-park.jpg
 ---
 
 Warren Dunes State Park on the shore of Lake Michigan. May 8, 2016.

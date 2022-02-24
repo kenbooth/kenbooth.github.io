@@ -1,7 +1,7 @@
 ---
+title: Very short review of books
+date: 2018-10-04 00:00:00 -05:00
 layout: post
-title: "Very short review of books"
-date: "2018-10-04"
 ---
 
 A roundup of brief reviews of books I read in September. There were a number of good books from the month and it was heavy on sci-fi. _Cherry_ is among the best books I've read this year and one to get you thinking. Fans of funny science fiction should start reading the Murderbot Diaries immediately. 

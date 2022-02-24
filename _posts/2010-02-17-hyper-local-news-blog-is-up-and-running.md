@@ -1,7 +1,7 @@
 ---
+title: Hyper-local news blog is up and running
+date: 2010-02-17 00:00:00 -06:00
 layout: post
-title: "Hyper-local news blog is up and running"
-date: "2010-02-17"
 ---
 
 I got back from 4-day trip to Ohio this week and immediately started work on a hyper-local news blog, [Madison Pike](http://www.madisonpike.com/). Setting up aggregation of local news sources was easy. I also located a WordPress plugin that lets me easily turn any post into a calendar event. So by pulling in a feed of city hall news items, for example, I can immediately turn their announcement of a commission meeting into a calendar event. Slick. But trying to pull in other local resources it turning out to be more of a challenge.

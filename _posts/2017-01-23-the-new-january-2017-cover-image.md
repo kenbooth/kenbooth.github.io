@@ -1,8 +1,8 @@
 ---
+title: The new January 2017 cover image
+date: 2017-01-23 00:00:00 -06:00
 layout: post
-title: "The new January 2017 cover image"
-date: "2017-01-23"
-coverImage: "IMG_2828-1.jpg"
+coverImage: IMG_2828-1.jpg
 ---
 
 The new header image was shot at the [Belle Chevre](http://www.bellechevre.com/) Cheese Shop and Tasting Room in Elkmont, Alabama. The shop was dog friendly and offered sandwiches, goat cheese and hand made fig ice cream.

@@ -1,7 +1,7 @@
 ---
+title: 'Review: When the Pipirite Sings'
+date: 2018-12-13 00:00:00 -06:00
 layout: post
-title: "Review: When the Pipirite Sings"
-date: "2018-12-13"
 ---
 
 _[When the Pipirite Sings](https://www.amazon.com/When-Pipirite-Sings-Selected-Poems/dp/0810139782/ref=sr_1_1?ie=UTF8&qid=1544735281&sr=8-1&keywords=when+the+pipirite+sings)_ presents the collected poems of Haitian poet and doctor Jean Métellus, who wrote primarily in French. The collection most notably includes the first English translation of his signature work by the same title. 

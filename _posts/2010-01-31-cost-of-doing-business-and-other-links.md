@@ -1,7 +1,7 @@
 ---
+title: Cost of doing business and other links
+date: 2010-01-31 00:00:00 -06:00
 layout: post
-title: "Cost of doing business and other links"
-date: "2010-01-31"
 ---
 
 The NPAA [Cost of Doing Business Calculator](http://nppa.org/professional_development/business_practices/cdb/cdbcalc.cfm). Targeted at photographers, but useful for any small business owner.

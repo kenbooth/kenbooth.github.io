@@ -1,8 +1,8 @@
 ---
+title: The Princess Diarist only partly delivers on the title
+date: 2017-03-30 00:00:00 -05:00
 layout: post
-title: "The Princess Diarist only partly delivers on the title"
-date: "2017-03-30"
-coverImage: "IMG_3444.jpg"
+coverImage: IMG_3444.jpg
 ---
 
 I was warned right in the title that Carrie Fisher would share her diary. On that she doesn't disappoint. But the title kind of promises details about life on the set of the first Star Wars movie. On this _The Princess Diarist_ falls short.

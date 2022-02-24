@@ -1,7 +1,7 @@
 ---
+title: Friday morning coffee reads
+date: 2018-05-25 00:00:00 -05:00
 layout: post
-title: "Friday morning coffee reads"
-date: "2018-05-25"
 ---
 
 [![](/assets/images/3b50391u-Edit-800-189x200.jpg)](https://kenbooth.net/friday-morning-coffee-reads-2/3b50391u-edit-800/)A regular roundup of interesting stories from the week to enjoy wit your morning coffee.

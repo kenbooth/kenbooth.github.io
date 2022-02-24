@@ -1,7 +1,7 @@
 ---
+title: 'Review: ''The Late Show'' introduces a fierce detective'
+date: 2017-07-25 00:00:00 -05:00
 layout: post
-title: "Review: 'The Late Show' introduces a fierce detective"
-date: "2017-07-25"
 ---
 
 ![the Late Show book review](images/51DN58VWvoL._SX320_BO1204203200_-194x300.jpg)Michael Connelly introduces a new detective in [_The Late Show_](http://amzn.to/2eLqBC7) (Little, Brown and Company, digital galley), a fast moving police procedural that is hard to put down. Renée Ballard works the LAPD overnight shift, responding to everything from burglaries to homicides. Because she has to hand off all of her cases at the end of her shift, she rarely gets to see anything through to completion.

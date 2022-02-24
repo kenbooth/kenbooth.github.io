@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Sun Does Shine'
+date: 2018-04-07 00:00:00 -05:00
 layout: post
-title: "Review: The Sun Does Shine"
-date: "2018-04-07"
 ---
 
 ![](/assets/images/51LSDwIJIUL._SX327_BO1204203200_-132x200.jpg)In 1985 Anthony Ray Hinton was arrested and charged with the death of two men in Birmingham, Alabama. Hinton was certain that because of his rock-solid alibi, everything would be cleared up and he would soon be released. But due to an ineffective and unmotivated defense attorney and a criminal justice system indifferent to the plight of a poor, black man, Hinton was wrongly convicted of murder and spent 30 years behind bars.

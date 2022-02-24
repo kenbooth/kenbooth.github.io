@@ -1,7 +1,7 @@
 ---
+title: 'Review: Drink Beer, Think Beer'
+date: 2018-08-08 00:00:00 -05:00
 layout: post
-title: "Review: Drink Beer, Think Beer"
-date: "2018-08-08"
 ---
 
 ![Drink Beer, Think Beer review](images/41KCrGfaijL-132x200.jpg)

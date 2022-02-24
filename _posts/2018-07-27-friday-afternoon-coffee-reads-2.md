@@ -1,7 +1,7 @@
 ---
+title: Friday afternoon coffee reads
+date: 2018-07-27 00:00:00 -05:00
 layout: post
-title: "Friday afternoon coffee reads"
-date: "2018-07-27"
 ---
 
 ![](/assets/images/3b50391u-Edit-800-189x200.jpg)A regular roundup of interesting stories to enjoy with your Friday morning afternoon coffee.

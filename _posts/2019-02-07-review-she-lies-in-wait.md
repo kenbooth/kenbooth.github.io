@@ -1,7 +1,7 @@
 ---
+title: 'Review: She Lies in Wait'
+date: 2019-02-07 00:00:00 -06:00
 layout: post
-title: "Review: She Lies in Wait"
-date: "2019-02-07"
 ---
 
 ![](/assets/images/61U4cP-3onL._SY346_-132x200.jpg)

@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Parisian'
+date: 2019-05-16 00:00:00 -05:00
 layout: post
-title: "Review: The Parisian"
-date: "2019-05-16"
 ---
 
 ![The Parisian book cover](images/41hsIx9JM7L-132x200.jpg)

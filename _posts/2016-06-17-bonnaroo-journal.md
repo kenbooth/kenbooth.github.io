@@ -1,8 +1,8 @@
 ---
+title: Bonnaroo journal 2016
+date: 2016-06-17 00:00:00 -05:00
 layout: post
-title: "Bonnaroo journal 2016"
-date: "2016-06-17"
-coverImage: "DSC08707-2.jpg"
+coverImage: DSC08707-2.jpg
 ---
 
 - Crowds at Bonnaroo 2016 were lighter than past years. Some estimates put it close to 50,000, which is significantly less than recent years when nearly 90,000 attended. At $325 a ticket, that’s about $13,000,000 in revenue.

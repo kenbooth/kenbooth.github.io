@@ -1,7 +1,7 @@
 ---
+title: Camp Vulcan Flag
+date: 2008-06-10 00:00:00 -05:00
 layout: post
-title: "Camp Vulcan Flag"
-date: "2008-06-10"
 ---
 
 [![](/assets/images/camp-vulcan-flag-200x300.jpg)](https://kenbooth.net/wp-content/uploads/2017/03/camp-vulcan-flag.jpg)[KenBooth](http://twitter.com/KenBooth/statuses/831503711): I was honored that our office was presented today with a flag that flew over Camp Vulcan, Afghanistan. Thanks Mike

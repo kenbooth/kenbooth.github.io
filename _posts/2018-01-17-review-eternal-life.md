@@ -1,7 +1,7 @@
 ---
+title: 'Review: Eternal Life'
+date: 2018-01-17 00:00:00 -06:00
 layout: post
-title: "Review: Eternal Life"
-date: "2018-01-17"
 ---
 
 ![](/assets/images/Eternal-Life-A-Novel-by-Horn-Dara-131x200.jpeg)Dara Horn's [_Eternal Life_](http://amzn.to/2BasDBi) (W.W. Norton & Company, digital galley) is a touching story of faith, loss and family. The story's heroine, Rachel, made a deal with God in Roman-occupied Jerusalem to trade her death for the life of her first-born son. Now, 2000 years later, Rachel struggles to find continued meaning in her never ending life.

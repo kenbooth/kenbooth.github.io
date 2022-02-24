@@ -1,7 +1,7 @@
 ---
+title: The good news story of craft beer
+date: 2018-03-02 00:00:00 -06:00
 layout: post
-title: "The good news story of craft beer"
-date: "2018-03-02"
 ---
 
 I again had the pleasure of joining journalist and Indiana University Media Adviser Kenny Smith on [The Best Story I’ve Heard Today](https://beststory.podbean.com/) podcast. Today we discuss why the craft beer industry is thriving, based on this story from _The Atlantic_: [Craft beer is the strangest, happiest economic story in America](https://www.theatlantic.com/business/archive/2018/01/craft-beer-industry/550850/).

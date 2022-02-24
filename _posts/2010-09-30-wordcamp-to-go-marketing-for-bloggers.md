@@ -1,7 +1,7 @@
 ---
+title: 'WordCamp to go: Marketing for bloggers'
+date: 2010-09-30 00:00:00 -05:00
 layout: post
-title: "WordCamp to go: Marketing for bloggers"
-date: "2010-09-30"
 ---
 
 ![](/assets/images/wordcamp-in-a-box.jpg)

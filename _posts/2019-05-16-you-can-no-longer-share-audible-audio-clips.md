@@ -1,7 +1,7 @@
 ---
+title: You can no longer share Audible audio clips
+date: 2019-05-16 00:00:00 -05:00
 layout: post
-title: "You can no longer share Audible audio clips"
-date: "2019-05-16"
 ---
 
 ![](/assets/images/IMG_2084-473x1024.png)

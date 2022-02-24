@@ -1,7 +1,7 @@
 ---
+title: 'WordCamp to go: Improving site performance'
+date: 2010-09-24 00:00:00 -05:00
 layout: post
-title: "WordCamp to go: Improving site performance"
-date: "2010-09-24"
 ---
 
 ![](/assets/images/wordcamp-in-a-box.jpg)While things are fresh in my mind, and because I told a few people I would, I have jotted down some notes I took away from [WordCamp Birmingham](http://wordcampbirmingham.org/) last weekend. I had intended to make one post, but after getting into it I saw it would be more useful if broken up into several posts. First I’d like to congratulate the organizers on a first-rate event and point out the event was worth many times the $40 it cost me to attend.These notes are simply things that were new or important to me and do not begin to cover all of the information offered. I’d recommend watching the SlideShare presentations for more details. Today I’ve including my notes for **improving site performance**. I’ll follow up with posts on web typography, marketing for bloggers and finally a collection of useful links I jotted down.

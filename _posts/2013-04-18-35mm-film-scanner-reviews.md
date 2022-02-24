@@ -1,7 +1,7 @@
 ---
+title: 35mm film scanner reviews
+date: 2013-04-18 00:00:00 -05:00
 layout: post
-title: "35mm film scanner reviews"
-date: "2013-04-18"
 ---
 
 The topic of **35mm film scanners** comes up occasionally around the office and in correspondence with [Shorpy](http://shorpy.com/) and [Vintagraph](http://vintagraph.com/) readers. The email I receive generally comes from individuals looking for a recommendation of a scanner to archive family photos. Because everyone’s needs and budget are different it’s not easy to make a general recommendation.

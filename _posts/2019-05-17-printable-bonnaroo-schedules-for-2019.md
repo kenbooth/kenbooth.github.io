@@ -1,7 +1,7 @@
 ---
+title: Printable Bonnaroo schedules for 2019
+date: 2019-05-17 00:00:00 -05:00
 layout: post
-title: "Printable Bonnaroo schedules for 2019"
-date: "2019-05-17"
 ---
 
 For some reason festivals don't provide schedules formatted for printing and I usually make my own printable Bonnaroo schedules. This year a couple of other people have done the heavy lifting already, so I'm sharing links here to the ones I've found. All of these were originally shared through the [Reddit Bonnaroo group](https://www.reddit.com/r/bonnaroo/).

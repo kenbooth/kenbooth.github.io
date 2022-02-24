@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Third Hotel'
+date: 2018-08-13 00:00:00 -05:00
 layout: post
-title: "Review: The Third Hotel"
-date: "2018-08-13"
 ---
 
 ![](/assets/images/51M-JWBz76L-1-128x200.jpg)

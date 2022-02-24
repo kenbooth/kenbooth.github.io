@@ -1,7 +1,7 @@
 ---
+title: 2018 Bonnaroo printable daily schedules
+date: 2018-04-17 00:00:00 -05:00
 layout: post
-title: "2018 Bonnaroo printable daily schedules"
-date: "2018-04-17"
 ---
 
 ![](/assets/images/bonnaroo-daily-schedule-graphic.png)

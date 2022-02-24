@@ -1,7 +1,7 @@
 ---
+title: Buying a used FujiFilm X100
+date: 2013-05-15 00:00:00 -05:00
 layout: post
-title: "Buying a used FujiFilm X100"
-date: "2013-05-15"
 ---
 
 The cost of a new **FujiFilm X100** last year was $1299, but now they're available for less than $700 on the used market. With the release of the updated X100s a couple of months ago the X100 became yesterday’s technology and used prices dropped accordingly.

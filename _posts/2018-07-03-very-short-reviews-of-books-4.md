@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-07-03 00:00:00 -05:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-07-03"
 ---
 
 A round up of brief reviews of books I read in June. David Lynch's biography _Room to Dream_ and Stephen King's _The Outsider_ are new to bookstores and worth reading.

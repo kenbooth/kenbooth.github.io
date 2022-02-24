@@ -1,7 +1,7 @@
 ---
-layout: post
 title: End of the week links
-date: 2020-04-17 14:24
+date: 2020-04-17 14:24:00 -05:00
+layout: post
 ---
 
 - [How safe is it to eat takeout?](https://www.npr.org/sections/health-shots/2020/04/08/822903487/how-safe-is-it-to-eat-take-out) Pretty safe, according to the experts. But read the story to set your mind at ease.

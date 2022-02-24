@@ -1,8 +1,8 @@
 ---
+title: Salzburg journal
+date: 2016-06-05 00:00:00 -05:00
 layout: post
-title: "Salzburg journal"
-date: "2016-06-05"
-coverImage: "pyrotomic-salzburg.jpg"
+coverImage: pyrotomic-salzburg.jpg
 ---
 
 - Salzburg is a surprisingly small city. It has a population of less than 150,000 and is smaller than Huntsville, Alabama, which has a population closer to 190,000.

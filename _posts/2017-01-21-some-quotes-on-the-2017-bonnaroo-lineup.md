@@ -1,7 +1,7 @@
 ---
+title: Some quotes on the 2017 Bonnaroo lineup
+date: 2017-01-21 00:00:00 -06:00
 layout: post
-title: "Some quotes on the 2017 Bonnaroo lineup"
-date: "2017-01-21"
 ---
 
 > … this year’s lineup resembles that of pop-and-rock-oriented competitors such as Lollapalooza and Coachella. But Bonnaroo’s organizers say they don’t view the festival as tethered to Jerry Garcia guitar solos, and haven’t for many years. ‘We certainly have jam-band roots from the first year, but our goal wasn’t to create a jam-band festival. The goal was always to create a great music festival,’ says Ashley Capps, founder of AC Entertainment, Bonnaroo’s founding promoter.

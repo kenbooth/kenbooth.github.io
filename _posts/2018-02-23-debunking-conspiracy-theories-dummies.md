@@ -1,7 +1,7 @@
 ---
+title: Debunking conspiracy theories for dummies
+date: 2018-02-23 00:00:00 -06:00
 layout: post
-title: "Debunking conspiracy theories for dummies"
-date: "2018-02-23"
 ---
 
 I had the pleasure today of joining journalist and Indiana University Media Adviser [Kenny Smith](http://www.kennysmith.org/) to discuss conspiracy theories and how to debunk them on [The Best Story I've Heard Today](https://beststory.podbean.com/) podcast. The conversation is centered around the column "[how to test your favorite conspiracy theory](https://www.bloomberg.com/view/articles/2018-02-19/aliens-bigfoot-illuminati-do-conspiracy-theories-stand-up)" by Bloomberg writer and George Mason University Professor of Economics Tyler Cowen.

@@ -1,7 +1,7 @@
 ---
+title: A history book for comedy wonks
+date: 2019-05-22 00:00:00 -05:00
 layout: post
-title: "A history book for comedy wonks"
-date: "2019-05-22"
 ---
 
 ![](/assets/images/51T49lvb8NL-133x200.jpg)

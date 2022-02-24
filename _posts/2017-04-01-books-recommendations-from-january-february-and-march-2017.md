@@ -1,8 +1,8 @@
 ---
+title: Book recommendations from January, February and March 2017
+date: 2017-04-01 00:00:00 -05:00
 layout: post
-title: "Book recommendations from January, February and March 2017"
-date: "2017-04-01"
-coverImage: "octopus-book-cover.jpg"
+coverImage: octopus-book-cover.jpg
 ---
 
 From the first quarter of 2017 I recommend _Celine_ and _Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness._

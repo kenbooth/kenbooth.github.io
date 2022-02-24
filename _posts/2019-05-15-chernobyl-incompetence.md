@@ -1,7 +1,7 @@
 ---
+title: Incompetence in Chernobyl
+date: 2019-05-15 00:00:00 -05:00
 layout: post
-title: "Incompetence in Chernobyl"
-date: "2019-05-15"
 ---
 
 ![Midnight in Chernobyl book cover](images/midnight-in-chernobyl-132x200.jpg)

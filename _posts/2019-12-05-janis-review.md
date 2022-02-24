@@ -1,7 +1,7 @@
 ---
+title: 'Review: Janis'
+date: 2019-12-05 00:00:00 -06:00
 layout: post
-title: "Review: Janis"
-date: "2019-12-05"
 ---
 
 ![](/assets/images/51g1GVJKhvL._SX329_BO1204203200_-133x200.jpg)

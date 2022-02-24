@@ -1,8 +1,8 @@
 ---
+title: Bad behavior can be necessary for politicians
+date: 2017-02-02 00:00:00 -06:00
 layout: post
-title: "Bad behavior can be necessary for politicians"
-date: "2017-02-02"
-coverImage: "dictators-handbook.jpg"
+coverImage: dictators-handbook.jpg
 ---
 
 _[The Dictator’s Handbook](http://amzn.to/2jHaqm0)_ by Bruce Bueno de Mesquita and Alastair Smith sheds light on how politicians get and keep power. In a nutshell, the most important thing to a politician is not the welfare of the citizenry, but the welfare of the politician’s winning coalition. Keep the coalition happy by lavishing rewards on them and the politician will stay in power.

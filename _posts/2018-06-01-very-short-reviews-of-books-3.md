@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-06-01 00:00:00 -05:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-06-01"
 ---
 
 David Itzkoff's compassionate biography of Robin Williams stands out among the books I read in May. David Sedaris' wickedly humorous collection of essays is also worth picking up.

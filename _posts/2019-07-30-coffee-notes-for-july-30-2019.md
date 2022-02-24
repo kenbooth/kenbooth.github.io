@@ -1,7 +1,7 @@
 ---
+title: Coffee notes for July 30, 2019
+date: 2019-07-30 00:00:00 -05:00
 layout: post
-title: "Coffee notes for July 30, 2019"
-date: "2019-07-30"
 ---
 
 **What I've learned** in [20 years of blogging](https://anildash.com/2019/07/23/20-years-of-blogging-what-ive-learned/), by Anil Dash: **"**Most people in tech want to do good, but tech history is poorly understood. As a result, many in tech don't understand how tech can have negative impacts when they think of themselves as good people."

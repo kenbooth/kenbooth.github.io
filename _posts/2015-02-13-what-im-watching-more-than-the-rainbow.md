@@ -1,8 +1,8 @@
 ---
+title: 'What I''m watching: More Than the Rainbow'
+date: 2015-02-13 00:00:00 -06:00
 layout: post
-title: "What I'm watching: More Than the Rainbow"
-date: "2015-02-13"
-coverImage: "more-than-the-rainbow.jpg"
+coverImage: more-than-the-rainbow.jpg
 ---
 
 Street photographer Matt Weber spent three decades documenting life in New York City. He started by pointing his lens out of his cab window and in the years since he walked the streets catching poignant images of the city's inhabitants.

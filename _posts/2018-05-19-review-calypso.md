@@ -1,7 +1,7 @@
 ---
+title: 'Review: Calypso'
+date: 2018-05-19 00:00:00 -05:00
 layout: post
-title: "Review: Calypso"
-date: "2018-05-19"
 ---
 
 ![](/assets/images/41zfEb2HQcL-132x200.jpg)David Sedaris has mastered the ability to be dark, charming and funny at the same time. His latest collection of essays, [_Calypso_](https://amzn.to/2wTMO9z), revolves around gatherings at his North Carolina beach house, the Sea Section. Sedaris deftly handles a variety of topics including  middle age, shopping, gay marriage, language and family tragedy.

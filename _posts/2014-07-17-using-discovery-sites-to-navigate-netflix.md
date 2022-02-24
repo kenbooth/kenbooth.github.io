@@ -1,7 +1,7 @@
 ---
+title: Using discovery sites to navigate Netflix
+date: 2014-07-17 00:00:00 -05:00
 layout: post
-title: "Using discovery sites to navigate Netflix"
-date: "2014-07-17"
 ---
 
 Despite containing many excellent films, it is often difficult to find anything to watch on **[Netflix](http://netflix.com/)**. The tools available on the site don't make it easy to discover the many wonderful movies hidden within its catalog.

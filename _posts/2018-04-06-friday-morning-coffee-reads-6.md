@@ -1,7 +1,7 @@
 ---
+title: Friday morning coffee reads
+date: 2018-04-06 00:00:00 -05:00
 layout: post
-title: "Friday morning coffee reads"
-date: "2018-04-06"
 ---
 
 ![](/assets/images/3b50391u-Edit-800-189x200.jpg)An assortment of articles to while away the hours this Friday morning.

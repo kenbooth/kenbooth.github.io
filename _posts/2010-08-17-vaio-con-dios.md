@@ -1,8 +1,8 @@
 ---
+title: VAIO con Dios
+date: 2010-08-17 00:00:00 -05:00
 layout: post
-title: "VAIO con Dios"
-date: "2010-08-17"
-coverImage: "vaio-con-dios.jpg"
+coverImage: vaio-con-dios.jpg
 ---
 
 I think I may have killed my beloved VAIO laptop. Yesterday afternoon I tried adding a external monitor to extend my desktop, but after rebooting neither the laptop monitor nor the external monitor would work. After spending a good part of the day futzing with it, I have come to the conclusion that I somehow damaged the graphics card.

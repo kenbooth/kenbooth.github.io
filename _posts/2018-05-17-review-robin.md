@@ -1,7 +1,7 @@
 ---
+title: 'Review: Robin'
+date: 2018-05-17 00:00:00 -05:00
 layout: post
-title: "Review: Robin"
-date: "2018-05-17"
 ---
 
 ![](/assets/images/51dST3WMBaL-132x200.jpg)An intimate new biography of Robin Williams tells the story of the meteoric rise, frenetic life and the sad final days of the comedian. In [_Robin_](https://amzn.to/2Io5Av1), New York Times writer David Itzkoff gives us a look at the creativity that fueled Williams' seemingly spontaneous and endless comedic riffs. But he also tells of Williams' substance abuse, repeated infidelities, failed marriages and a manic anxiety over the quality of his performances.

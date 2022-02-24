@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Frolic of the Beasts'
+date: 2018-11-06 00:00:00 -06:00
 layout: post
-title: "Review: The Frolic of the Beasts"
-date: "2018-11-06"
 ---
 
 ![](/assets/images/41J6KXBtVdL-130x200.jpg)

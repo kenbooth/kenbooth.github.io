@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-05-01 00:00:00 -05:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-05-01"
 ---
 
 The original, and surreal, _Spaceman of Bohemia_ is highly recommended. _The Mars Room_ and _I am, I am, I am_ area also among my favorites from April.

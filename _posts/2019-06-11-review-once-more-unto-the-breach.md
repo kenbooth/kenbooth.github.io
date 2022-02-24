@@ -1,7 +1,7 @@
 ---
+title: 'Review: Once More Unto the Breach'
+date: 2019-06-11 00:00:00 -05:00
 layout: post
-title: "Review: Once More Unto the Breach"
-date: "2019-06-11"
 ---
 
 ![](/assets/images/41yIVjHb1ML-130x200.jpg)

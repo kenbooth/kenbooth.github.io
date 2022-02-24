@@ -1,7 +1,7 @@
 ---
+title: ''
+date: 2019-06-05 00:00:00 -05:00
 layout: post
-title: ""
-date: "2019-06-05"
 ---
 
 > Too many people want to travel. Massive crowds are causing environmental degradation, dangerous conditions, and the immiseration and pricing-out of locals.

@@ -1,7 +1,7 @@
 ---
+title: High-tech pranks and other links
+date: 2008-06-23 00:00:00 -05:00
 layout: post
-title: "High-tech pranks and other links"
-date: "2008-06-23"
 ---
 
 [The 25 Best High-Tech Pranks](http://www.techcult.com/high-tech-pranks/): Don’t be fooled again.

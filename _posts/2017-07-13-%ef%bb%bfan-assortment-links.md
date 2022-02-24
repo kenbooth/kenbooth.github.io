@@ -1,8 +1,8 @@
 ---
+title: An assortment of links
+date: 2017-07-13 00:00:00 -05:00
 layout: post
-title: "An assortment of links"
-date: "2017-07-13"
-coverImage: "8b38518u.jpg"
+coverImage: 8b38518u.jpg
 ---
 
 1. **Nancy Pate reviews** [six summer thrillers](https://patebooks.wordpress.com/2017/07/09/chillers-thrillers/).

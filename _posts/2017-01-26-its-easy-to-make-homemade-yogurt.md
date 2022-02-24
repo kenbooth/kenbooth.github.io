@@ -1,7 +1,7 @@
 ---
+title: It's easy to make homemade yogurt
+date: 2017-01-26 00:00:00 -06:00
 layout: post
-title: "It's easy to make homemade yogurt"
-date: "2017-01-26"
 ---
 
 It's relatively easy to make yogurt at home without any special tools. After getting a brief demonstration from my uncle, I decided to give it a shot. Although my uncle uses an Instant Pot to incubate the yogurt, I had success with a 1 gallon insulated Coleman jug. The insulated jug is definitely the cheapest way to proceed and for now I don't see a need to buy a special appliance. Homemade yogurt is smoother and less tart than similar, store-bought yogurts. Although you can do so, I did not add any flavoring or sweetener to the yogurt. I got enough sweetness from adding granola and fruit to the yogurt when I eat it.Here is the recipe I used to make yogurt at home.**INGREDIENTS**

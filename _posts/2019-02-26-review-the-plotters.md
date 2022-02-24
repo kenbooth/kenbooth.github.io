@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Plotters'
+date: 2019-02-26 00:00:00 -06:00
 layout: post
-title: "Review: The Plotters"
-date: "2019-02-26"
 ---
 
 ![](/assets/images/51ZH8MpRr-L-132x200.jpg)

@@ -1,7 +1,7 @@
 ---
+title: Jungle Room and other links
+date: 2010-07-22 00:00:00 -05:00
 layout: post
-title: "Jungle Room and other links"
-date: "2010-07-22"
 ---
 
 [Presidio Heights Mansion Has Special Jungle Room](http://sf.curbed.com/archives/2010/02/02/presidio_heights_mansion_has_a_special_jungle_room.php)

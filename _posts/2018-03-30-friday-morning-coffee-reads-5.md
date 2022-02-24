@@ -1,7 +1,7 @@
 ---
+title: Friday morning coffee reads
+date: 2018-03-30 00:00:00 -05:00
 layout: post
-title: "Friday morning coffee reads"
-date: "2018-03-30"
 ---
 
 Friday forenoon features for curious coffee connoisseurs.

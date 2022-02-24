@@ -1,7 +1,7 @@
 ---
+title: Tuesday journal
+date: 2019-06-11 00:00:00 -05:00
 layout: post
-title: "Tuesday journal"
-date: "2019-06-11"
 ---
 
 **Daniel Milnor posts** a [thoughtful essay](http://shifter.media/adventure-competitive-travel/) on "competitive travel." I don't agree with everything he says, but this should get you thinking about what motivates you to travel. Related: [Travel photos are underrated](https://devonzuegel.com/post/travel-photos-are-underrated).

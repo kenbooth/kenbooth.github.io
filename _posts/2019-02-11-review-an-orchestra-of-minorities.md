@@ -1,7 +1,7 @@
 ---
+title: 'Review: An Orchestra of Minorities'
+date: 2019-02-11 00:00:00 -06:00
 layout: post
-title: "Review: An Orchestra of Minorities"
-date: "2019-02-11"
 ---
 
 ![](/assets/images/41iOaviKFuL-129x200.jpg)

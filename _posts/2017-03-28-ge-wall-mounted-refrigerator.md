@@ -1,7 +1,7 @@
 ---
+title: GE wall-mounted refrigerator history
+date: 2017-03-28 00:00:00 -05:00
 layout: post
-title: "GE wall-mounted refrigerator history"
-date: "2017-03-28"
 ---
 
 \[caption id="attachment\_451" align="aligncenter" width="1200"\][![](/assets/images/ge-wall-mounted-refrigerato_grande.jpg)](https://kenbooth.net/ge-wall-mounted-refrigerator/ge-wall-mounted-refrigerato_grande-2/) Ge wall mounted refrigerator.\[/caption\]

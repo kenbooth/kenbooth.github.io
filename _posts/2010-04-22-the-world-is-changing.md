@@ -1,7 +1,7 @@
 ---
+title: The world is changing
+date: 2010-04-22 00:00:00 -05:00
 layout: post
-title: "The world is changing"
-date: "2010-04-22"
 ---
 
 Best thing I read today:

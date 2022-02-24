@@ -1,7 +1,7 @@
 ---
+title: 'Review: Feast Days'
+date: 2018-03-27 00:00:00 -05:00
 layout: post
-title: "Review: Feast Days"
-date: "2018-03-27"
 ---
 
 ![](/assets/images/61JX8h3wNgL._SX329_BO1204203200_-133x200.jpg)Written in a brutally honest tone, [_Feast Days_](https://amzn.to/2IXXciD) recounts the story of Emma, a young woman who moves with her husband from New York to Brazil, where he works as a financial analyst. While protests rattle the country, Emma tries to find where she fits in, immersing herself in the arts scene, lunching with other expat wives and volunteering to help refugees who are fleeing poverty and war.

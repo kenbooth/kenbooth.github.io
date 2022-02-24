@@ -1,8 +1,8 @@
 ---
+title: A trip to Bald Point Florida
+date: 2013-04-02 00:00:00 -05:00
 layout: post
-title: "A trip to Bald Point Florida"
-date: "2013-04-02"
-coverImage: "DSC08260-3.jpg"
+coverImage: DSC08260-3.jpg
 ---
 
 Where Ochlockonee Bay meets Apalachee Bay in the Florida panhandle sits the secluded **Bald Point** peninsula, an area of scrub oak, pine trees, marshes and white sand beaches. Most of the peninsula is occupied by [Bald Point State Park](http://www.floridastateparks.org/baldpoint/), with a few beachside homes and rental properties scattered along the shore. We made a Spring Break trip there because dogs are allowed on the non-State Park beaches of Bald Point and Alligator Point.

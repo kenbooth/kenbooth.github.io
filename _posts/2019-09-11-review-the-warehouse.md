@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Warehouse'
+date: 2019-09-11 00:00:00 -05:00
 layout: post
-title: "Review: The Warehouse"
-date: "2019-09-11"
 ---
 
 ![](/assets/images/414BaNIxqaL-132x200.jpg)

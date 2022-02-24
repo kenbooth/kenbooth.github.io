@@ -1,7 +1,7 @@
 ---
+title: 'A brief review: Daisy Jones and the Six'
+date: 2019-09-26 00:00:00 -05:00
 layout: post
-title: "A brief review: Daisy Jones and the Six"
-date: "2019-09-26"
 ---
 
 ![](/assets/images/51zVMq4SniL._SX329_BO1204203200_-133x200.jpg)

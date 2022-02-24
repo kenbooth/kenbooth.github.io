@@ -1,7 +1,7 @@
 ---
+title: Using RapidWeaver to rebuild a site
+date: 2019-05-30 00:00:00 -05:00
 layout: post
-title: "Using RapidWeaver to rebuild a site"
-date: "2019-05-30"
 ---
 
 [![](/assets/images/download-300x293.png)](https://historicstock.com)

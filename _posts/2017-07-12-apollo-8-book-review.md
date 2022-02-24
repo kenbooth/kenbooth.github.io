@@ -1,8 +1,8 @@
 ---
+title: Apollo 8 book review
+date: 2017-07-12 00:00:00 -05:00
 layout: post
-title: "Apollo 8 book review"
-date: "2017-07-12"
-coverImage: "apollo-8-header-graphic.jpg"
+coverImage: apollo-8-header-graphic.jpg
 ---
 
 [**Apollo 8: The Thrilling Story of the First Mission to the Moon**](http://amzn.to/2tNlIMf) By Jeffrey Kluger ★★★★★

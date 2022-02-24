@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-09-05 00:00:00 -05:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-09-05"
 ---
 
 A roundup of brief reviews of books I read in August. Looking back it was a good month. Depending on where your tastes lie, I'd recommend everything but _The Butcher's Boy_. But if I had to pick one, it would be _The Line Becomes a River_, which is a good look at what happens along our southern border and would be enlightening no matter where your politics are on immigration. 

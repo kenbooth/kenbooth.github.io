@@ -1,7 +1,7 @@
 ---
+title: 'Review: World''s Best Whiskeys'
+date: 2019-02-06 00:00:00 -06:00
 layout: post
-title: "Review: World's Best Whiskeys"
-date: "2019-02-06"
 ---
 
 ![](/assets/images/worlds-best-whiskies-153x200.jpg)

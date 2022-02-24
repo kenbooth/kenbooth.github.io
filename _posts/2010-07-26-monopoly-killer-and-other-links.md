@@ -1,7 +1,7 @@
 ---
+title: Monopoly killer and other links
+date: 2010-07-26 00:00:00 -05:00
 layout: post
-title: "Monopoly killer and other links"
-date: "2010-07-26"
 ---
 
 [Can You Say … “Hero”?](http://www.pittsburghinwords.org/tom_junod.html)

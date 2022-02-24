@@ -1,8 +1,8 @@
 ---
+title: Bonnaroo lineup 2017
+date: 2017-04-05 00:00:00 -05:00
 layout: post
-title: "Bonnaroo lineup 2017"
-date: "2017-04-05"
-coverImage: "bonnaroo-2016.jpg"
+coverImage: bonnaroo-2016.jpg
 ---
 
 The official Bonnaroo lineup 2017 was announced January 11. The June 8-11 festival is headlined by U2, Red Hot Chili Peppers, The Weeknd and Chance the Rapper. This list was updated April 5, 2017 to include new additions to the music lineup and to the Comedy Theatre.

@@ -1,8 +1,8 @@
 ---
-layout: post
 title: "'When the English Fall' shows how to handle the apocalypse with dignity"
-date: "2017-08-17"
-coverImage: "IMG_4569.jpg"
+date: 2017-08-17 00:00:00 -05:00
+layout: post
+coverImage: IMG_4569.jpg
 ---
 
 After a powerful solar storm destroys electrical devices and causes civilization to crumble, an Amish farming community in Pennsylvania helps by supplying food to a neighboring town. But as things deteriorate, the outside world encroaches on their isolated society.

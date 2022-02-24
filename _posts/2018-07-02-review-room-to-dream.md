@@ -1,7 +1,7 @@
 ---
+title: 'Review: Room to Dream'
+date: 2018-07-02 00:00:00 -05:00
 layout: post
-title: "Review: Room to Dream"
-date: "2018-07-02"
 ---
 
 ![](/assets/images/51byubQzJoL-132x200.jpg)The inscrutable auteur David Lynch has delivered a number of memorable films that enthrall and confuse viewers. In _[Room to Dream](https://amzn.to/2Nk4NKC)_ we get to peek behind the camera to see what drives the visionary director and artist.

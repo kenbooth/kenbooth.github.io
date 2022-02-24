@@ -1,8 +1,8 @@
 ---
+title: 'Strangers in Budapest: A slow-paced mystery'
+date: 2017-12-12 00:00:00 -06:00
 layout: post
-title: "Strangers in Budapest: A slow-paced mystery"
-date: "2017-12-12"
-coverImage: "strangers-in-budapest.jpg"
+coverImage: strangers-in-budapest.jpg
 ---
 
 In this slow-paced thriller an American couple starting a business in Budapest meet an elderly man hunting the son-in-law he believes murdered his daughter.

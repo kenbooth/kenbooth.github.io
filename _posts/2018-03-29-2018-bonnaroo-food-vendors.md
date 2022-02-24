@@ -1,7 +1,7 @@
 ---
+title: 2018 Bonnaroo food vendors
+date: 2018-03-29 00:00:00 -05:00
 layout: post
-title: "2018 Bonnaroo food vendors"
-date: "2018-03-29"
 ---
 
 The Bonnaroo music festival has released their 2018 food lineup, but the list [on their site](https://www.bonnaroo.com/news/2018-food-lineup/) is hard to browse through without a lot of clicking. I've reformatted the list of food vendors below to make it easier to scan. Related: [Bonnaroo 2018 lineup spreadsheet](https://kenbooth.net/bonnaroo-2018-lineup-spreadsheet/).

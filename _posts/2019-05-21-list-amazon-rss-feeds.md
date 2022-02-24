@@ -1,7 +1,7 @@
 ---
+title: A list of Amazon RSS feeds for 2019
+date: 2019-05-21 00:00:00 -05:00
 layout: post
-title: "A list of Amazon RSS feeds for 2019"
-date: "2019-05-21"
 ---
 
 Unfortunately Amazon no longer provides RSS feeds. This seems to be a new trend and a number of sites, including news organizations, are discontinuing RSS feeds and making it more difficult to track information and get updates across the Internet.

@@ -1,7 +1,7 @@
 ---
+title: Norwegian Cruise Line bans Galaxy Note 7 from its ships
+date: 2016-10-21 00:00:00 -05:00
 layout: post
-title: "Norwegian Cruise Line bans Galaxy Note 7 from its ships"
-date: "2016-10-21"
 ---
 
 Norwegian Cruise Line has sent out an announcement to booked passengers on it ships telling them to leave fire-prone Galaxy Note 7 cellphones behind.

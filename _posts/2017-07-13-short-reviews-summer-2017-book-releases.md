@@ -1,8 +1,8 @@
 ---
+title: Short reviews of summer 2017 book releases
+date: 2017-07-13 00:00:00 -05:00
 layout: post
-title: "Short reviews of summer 2017 book releases"
-date: "2017-07-13"
-coverImage: "good-morning-midnight-1.jpg"
+coverImage: good-morning-midnight-1.jpg
 ---
 
 Here is a roundup of reviews for five summer of 2017 releases. All, but for The Windfall, are recommended.

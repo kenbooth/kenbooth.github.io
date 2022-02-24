@@ -1,7 +1,7 @@
 ---
+title: 1984 Disney Gradnite pamphlet
+date: 2012-06-15 00:00:00 -05:00
 layout: post
-title: "1984 Disney Gradnite pamphlet"
-date: "2012-06-15"
 ---
 
 \[caption id="attachment\_1919" align="aligncenter" width="1200"\][![Disney Gradnite 1984 pamphlet.](images/1984-grad-night-1.gif)](https://kenbooth.net/disney-gradnite-84-pamphlet/1984-grad-night-1/) Disney Gradnite 1984 pamphlet.\[/caption\]

@@ -1,7 +1,7 @@
 ---
+title: Customer service is marketing
+date: 2010-08-11 00:00:00 -05:00
 layout: post
-title: "Customer service is marketing"
-date: "2010-08-11"
 ---
 
 The most useful thing I read today:

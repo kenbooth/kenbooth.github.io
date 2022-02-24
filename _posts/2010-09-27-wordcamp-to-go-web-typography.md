@@ -1,7 +1,7 @@
 ---
+title: 'WordCamp to go: Web typography'
+date: 2010-09-27 00:00:00 -05:00
 layout: post
-title: "WordCamp to go: Web typography"
-date: "2010-09-27"
 ---
 
 ![](/assets/images/wordcamp-in-a-box.jpg)

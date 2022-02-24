@@ -1,7 +1,7 @@
 ---
+title: 'Review: In ''Amatka'' words can literally destroy'
+date: 2017-07-20 00:00:00 -05:00
 layout: post
-title: "Review: In 'Amatka' words can literally destroy"
-date: "2017-07-20"
 ---
 
 ![Amatka book review](images/5170KUr8UfL._SX322_BO1204203200_-195x300.jpg)In Karin Tidbeck's dystopian fantasy [_Amatka_](http://amzn.to/2vwy3Vz) (Knopf Doubleday, digital galley), words have the power to build, heal and destroy. Literally.

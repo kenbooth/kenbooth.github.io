@@ -1,7 +1,7 @@
 ---
+title: Friday afternoon coffee reads
+date: 2018-02-09 00:00:00 -06:00
 layout: post
-title: "Friday afternoon coffee reads"
-date: "2018-02-09"
 ---
 
 Here is a roundup of the best reads from the week. These may not be new to the internet or you, but they were of fresh interest to me.

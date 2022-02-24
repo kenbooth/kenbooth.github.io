@@ -1,7 +1,7 @@
 ---
+title: 'Review: Territory of Light'
+date: 2019-03-03 00:00:00 -06:00
 layout: post
-title: "Review: Territory of Light"
-date: "2019-03-03"
 ---
 
 ![](/assets/images/31Bjev12F3L._SX331_BO1204203200_-133x200.jpg)

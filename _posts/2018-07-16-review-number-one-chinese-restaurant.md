@@ -1,7 +1,7 @@
 ---
+title: 'Review: Number One Chinese Restaurant'
+date: 2018-07-16 00:00:00 -05:00
 layout: post
-title: "Review: Number One Chinese Restaurant"
-date: "2018-07-16"
 ---
 
 ![](/assets/images/51Ui8A58ZFL-132x200.jpg)The characters of _[Number One Chinese Restaurant](https://amzn.to/2uu4qoQ)_ all inhabit a planet orbiting the Beijing Duck House. A fire at the suburban Washington, D.C restaurant upends the equilibrium and tensions between family and coworkers come to the surface.

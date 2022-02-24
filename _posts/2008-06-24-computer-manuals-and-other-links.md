@@ -1,7 +1,7 @@
 ---
+title: Computer manuals and other links
+date: 2008-06-24 00:00:00 -05:00
 layout: post
-title: "Computer manuals and other links"
-date: "2008-06-24"
 ---
 
 [SafeManuals.com](http://safemanuals.com/): Find user guides, instruction manual and owner manual for a large assortment of electronics and gadgets.

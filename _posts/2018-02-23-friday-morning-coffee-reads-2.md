@@ -1,7 +1,7 @@
 ---
+title: Friday morning coffee reads
+date: 2018-02-23 00:00:00 -06:00
 layout: post
-title: "Friday morning coffee reads"
-date: "2018-02-23"
 ---
 
 Interesting articles to peruse with your morning joe.

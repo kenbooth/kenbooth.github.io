@@ -1,7 +1,7 @@
 ---
+title: 'Review: Gateway to the Moon'
+date: 2018-04-18 00:00:00 -05:00
 layout: post
-title: "Review: Gateway to the Moon"
-date: "2018-04-18"
 ---
 
 ![](/assets/images/61eWMuiJyqL-134x200.jpg)Mary Morris' latest novel, [_Gateway to the Moon_](https://amzn.to/2qH8j76), combines a coming of age story with historical fiction to explore ideas of identity and how history echoes across time.  The remote New Mexico community of Entrada de la Luna is rooted in the history of the Spanish inquisition and converesos, or crypto-Jews, who fled from persecution. But the residents have lost touch with their past and don't remember why they maintain certain rituals, such as shunning pork and lighting candles on Friday.

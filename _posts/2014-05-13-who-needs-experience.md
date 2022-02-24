@@ -1,7 +1,7 @@
 ---
+title: Who needs experience?
+date: 2014-05-13 00:00:00 -05:00
 layout: post
-title: "Who needs experience?"
-date: "2014-05-13"
 ---
 
 A 24-year-old former wedding photographer is now [running Lonely Planet](http://www.outsideonline.com/adventure-travel/The-25-Year-Old-at-the-Helm-of-Lonely-Planet.html), the world's largest publisher of travel guides.

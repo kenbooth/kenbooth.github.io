@@ -1,7 +1,7 @@
 ---
+title: How to find your 2019 Shopify Payments 1099-K
+date: 2020-01-30 00:00:00 -06:00
 layout: post
-title: "How to find your 2019 Shopify Payments 1099-K"
-date: "2020-01-30"
 ---
 
 If you use Shopify Payments, you may wonder where to find the 1099-K you need for your business taxes. Shopify does not make it easy to find, but with the help of Shopify's chat support I was able to navigate to the form. I've outlined the steps below to find your Shopify 1099-K.

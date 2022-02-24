@@ -1,7 +1,7 @@
 ---
+title: ''
+date: 2017-02-22 00:00:00 -06:00
 layout: post
-title: ""
-date: "2017-02-22"
 ---
 
 Chef's love it when customers are willing to pay to eat their garbage.

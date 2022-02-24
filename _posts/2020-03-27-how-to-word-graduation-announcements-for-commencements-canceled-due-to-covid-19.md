@@ -1,7 +1,7 @@
 ---
+title: How to word graduation announcements for commencements canceled due to COVID-19
+date: 2020-03-27 00:00:00 -05:00
 layout: post
-title: "How to word graduation announcements for commencements canceled due to COVID-19"
-date: "2020-03-27"
 ---
 
 School graduations are upon us and if you, like me, are ordering announcements you realize a few changes need to be made to the wording due to commencement ceremonies being canceled or postponed because of COVID-19.

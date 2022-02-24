@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Dreamers'
+date: 2019-02-12 00:00:00 -06:00
 layout: post
-title: "Review: The Dreamers"
-date: "2019-02-12"
 ---
 
 ![](/assets/images/51RKASJImqL-132x200.jpg)

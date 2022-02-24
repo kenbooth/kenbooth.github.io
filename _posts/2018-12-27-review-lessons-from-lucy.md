@@ -1,7 +1,7 @@
 ---
+title: 'Review: Lessons From Lucy'
+date: 2018-12-27 00:00:00 -06:00
 layout: post
-title: "Review: Lessons From Lucy"
-date: "2018-12-27"
 ---
 
 ![](/assets/images/513Pzz7lsHL-130x200.jpg)

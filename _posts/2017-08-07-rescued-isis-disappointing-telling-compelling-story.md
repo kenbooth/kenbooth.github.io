@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "'Rescued from ISIS' a disappointing telling of a compelling story"
-date: "2017-08-07"
+date: 2017-08-07 00:00:00 -05:00
+layout: post
 ---
 
 ![Rescued from ISIS book review](images/51SjEHEY5fL._SX331_BO1204203200_-200x300.jpg)In 2013 former soldier Dimitri Bontinck's 18-year-old son, Joe, fell under the sway of a radical Islamic mosque and traveled to Syria from Belgium to take part in that country's civil war. [_Rescued from ISIS_](http://amzn.to/2uiQaRN) (St. Martin's Press, digital galley) recounts his many harrowing trips into Syria to find and ultimately bring his son home.

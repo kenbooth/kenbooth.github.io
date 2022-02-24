@@ -1,7 +1,7 @@
 ---
+title: Sending the order form to the design spa
+date: 2010-02-04 00:00:00 -06:00
 layout: post
-title: "Sending the order form to the design spa"
-date: "2010-02-04"
 ---
 
 I spent a lot of time yesterday and today upgrading the look of the print order forms and shopping carts on [Vintagraph](http://www.vintagraph.com/) and [Shorpy](http://www.shorpy.com/). The old design looked clunky and had a very 1999 feel to it. It was basic html and lacked the appeal of most modern web stores.

@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Wolf and the Watchman'
+date: 2019-03-04 00:00:00 -06:00
 layout: post
-title: "Review: The Wolf and the Watchman"
-date: "2019-03-04"
 ---
 
 ![](/assets/images/41GxKD6VnhL-132x200.jpg)

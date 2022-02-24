@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-03-06 00:00:00 -06:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-03-06"
 ---
 
 A roundup of very short reviews of books I recently read. _Lincoln in the Bardo_ and _Panorama_ are worth your attention.

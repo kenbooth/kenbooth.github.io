@@ -1,8 +1,8 @@
 ---
+title: Old San Juan journal
+date: 2017-03-23 00:00:00 -05:00
 layout: post
-title: "Old San Juan journal"
-date: "2017-03-23"
-coverImage: "cathedral-san-juan-bautista.jpg"
+coverImage: cathedral-san-juan-bautista.jpg
 ---
 
 - The harbor at San Juan Bay is a hive of activity. There are cruise ships, sailboats, commercial ships, ferries, seaplanes and regular planes all moving about. If you have the opportunity, grab a coffee or cocktail and sit and watch.

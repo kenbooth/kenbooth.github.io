@@ -1,13 +1,21 @@
+---
 title: Ken Booth
+timezone: America/Chicago
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 theme: jekyll-theme-cayman
 author: Ken Booth
 description: About
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://kenbooth.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/"
+url: https://kenbooth.github.io
 lang: en
-timezone: America/Chicago
 exclude:
- - README.md
- - CHANGELOG.md
-google_analytics:
+- README.md
+- CHANGELOG.md
+google_analytics: 
 paginate: 5

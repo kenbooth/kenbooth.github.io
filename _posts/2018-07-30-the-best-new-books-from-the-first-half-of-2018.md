@@ -1,7 +1,7 @@
 ---
+title: The best new books from the first half of 2018
+date: 2018-07-30 00:00:00 -05:00
 layout: post
-title: "The best new books from the first half of 2018"
-date: "2018-07-30"
 ---
 
 Here is my list of the best new books from the first half of 2018. I've listed them in the order I would most recommend them to someone. But if you're inclined, read them all.

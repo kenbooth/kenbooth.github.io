@@ -1,7 +1,7 @@
 ---
+title: 'Daily miscellanny: We''ve never had it so good'
+date: 2017-08-08 00:00:00 -05:00
 layout: post
-title: "Daily miscellanny: We've never had it so good"
-date: "2017-08-08"
 ---
 
 1. **Megan McArdle says** that from cooking to woodworking, rising levels of skill and effort have become [barriers to entry](http://j.mp/2vhXPgx).

@@ -1,8 +1,8 @@
 ---
+title: Project finished before my second cup of coffee
+date: 2016-04-28 00:00:00 -05:00
 layout: post
-title: "Project finished before my second cup of coffee"
-date: "2016-04-28"
-coverImage: "DSC3516.jpg"
+coverImage: DSC3516.jpg
 ---
 
 I installed the [RainMachine Mini-8](http://amzn.to/1YVxHPW) on my home sprinkler system this morning. It was one of the easiest home improvement/tech projects I've ever done.

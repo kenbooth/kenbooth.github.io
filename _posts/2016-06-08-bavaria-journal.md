@@ -1,8 +1,8 @@
 ---
+title: Bavaria journal
+date: 2016-06-08 00:00:00 -05:00
 layout: post
-title: "Bavaria journal"
-date: "2016-06-08"
-coverImage: "pyrotomic-glockenspiel.jpg"
+coverImage: pyrotomic-glockenspiel.jpg
 ---
 
 - Although reserved, people in the street were friendly and willing to meet our gaze and return a smile.

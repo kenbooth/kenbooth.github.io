@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-02-12 00:00:00 -06:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-02-12"
 ---
 
 This is a roundup of books I recently finished, but which I did not give a [full review](https://kenbooth.net/category/books/).

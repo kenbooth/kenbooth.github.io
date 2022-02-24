@@ -1,7 +1,7 @@
 ---
+title: An assortment of links for Friday
+date: 2017-07-28 00:00:00 -05:00
 layout: post
-title: "An assortment of links for Friday"
-date: "2017-07-28"
 ---
 
 1. **Tumbling battery prices** mean that EVs will not just have lower lifetime costs, but will also be [cheaper to buy](https://about.bnef.com/blog/electric-vehicles-accelerate-54-new-car-sales-2040/) than internal combustion engine cars in most countries by 2025-29.

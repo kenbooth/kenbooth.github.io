@@ -1,7 +1,7 @@
 ---
+title: Coffee notes for July 18, 2019
+date: 2019-07-18 00:00:00 -05:00
 layout: post
-title: "Coffee notes for July 18, 2019"
-date: "2019-07-18"
 ---
 
 **Self-driving cars** are [way in the future](https://www.nytimes.com/2019/07/17/business/self-driving-autonomous-cars.html?action=click&module=News&pgtype=Homepage): "Several carmakers and technology companies have concluded that making autonomous vehicles is going to be harder, slower and costlier than they thought."

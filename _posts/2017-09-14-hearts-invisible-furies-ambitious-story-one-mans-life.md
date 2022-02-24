@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "'The Heart's Invisible Furies' is an ambitious story of one man's life"
-date: "2017-09-14"
+date: 2017-09-14 00:00:00 -05:00
+layout: post
 ---
 
 ![Review of The Heart's Invisible Furies](images/The-Hearts-Invisible-Furies-A-Novel-133x200.jpeg)Cyril Avery is adopted at birth and raised by eccentric and well-to-do parents who make it clear that he is not a real Avery. Nonetheless he perseveres, practically raising himself in their sprawling Dublin mansion. The ambitious novel [_The Heart's Invisible Furies_](http://amzn.to/2f9wFF4) (Hogarth Press, digital galley) follows Avery's entire life from the 1940s to the present day.

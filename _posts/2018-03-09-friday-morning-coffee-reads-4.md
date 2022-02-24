@@ -1,7 +1,7 @@
 ---
+title: Friday morning coffee reads
+date: 2018-03-09 00:00:00 -06:00
 layout: post
-title: "Friday morning coffee reads"
-date: "2018-03-09"
 ---
 
 It's time to settle down with a steaming mug of coffee, some interesting stories and begin putting off getting any meaningful work done today.

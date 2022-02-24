@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Shepherd''s Hut'
+date: 2018-05-24 00:00:00 -05:00
 layout: post
-title: "Review: The Shepherd's Hut"
-date: "2018-05-24"
 ---
 
 ![](/assets/images/313yVOKTo7L-133x200.jpg)Jaxie Claxton lives a miserable life in rural Australia, stuck with a savage father he hates. Then one day a violent accident leaves him with no choice but to pack what he can carry and strike out on foot as a fugitive.

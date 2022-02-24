@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-11-06 00:00:00 -06:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-11-06"
 ---
 
 A roundup of brief reviews of books I read in October. _Virgil Wander_ will probably make it to best books of 2018 list.

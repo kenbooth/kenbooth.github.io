@@ -1,7 +1,7 @@
 ---
+title: Friday coffee notes
+date: 2019-10-18 00:00:00 -05:00
 layout: post
-title: "Friday coffee notes"
-date: "2019-10-18"
 ---
 
 ![](/assets/images/41SaVF6R41L-132x200.jpg)

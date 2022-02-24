@@ -1,7 +1,7 @@
 ---
+title: Upgrading backend for Vintagraph
+date: 2012-06-25 00:00:00 -05:00
 layout: post
-title: "Upgrading backend for Vintagraph"
-date: "2012-06-25"
 ---
 
 I moved [Vintagraph](http://www.vintagraph.com/) to a new backend over the weekend. It’s a big change for us as it takes us from a blogging platform to one designed specifically for storefronts.

@@ -1,7 +1,7 @@
 ---
+title: 'Review: A Terrible Country'
+date: 2018-07-26 00:00:00 -05:00
 layout: post
-title: "Review: A Terrible Country"
-date: "2018-07-26"
 ---
 
 ![](/assets/images/51P-dnqLLnL-132x200.jpg)Andrei Kaplan is coming off of a failed relationship, low on cash and struggling to find an academic job when his brother asks him to do a favor. Kaplan accepts and heads to Russia where he will take care of his ailing grandmother in her Stalin-era, Moscow apartment.

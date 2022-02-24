@@ -1,7 +1,7 @@
 ---
+title: William Eggleston is a genius, he agrees
+date: 2016-10-21 00:00:00 -05:00
 layout: post
-title: "William Eggleston is a genius, he agrees"
-date: "2016-10-21"
 ---
 
 There's a [wonderful interview](http://www.nytimes.com/2016/10/17/t-magazine/william-eggleston-photographer-interview-augusten-burroughs.html) in _The New York Times_ with pioneering photographer William Eggleston. He is refreshingly blunt and unendingly confident.

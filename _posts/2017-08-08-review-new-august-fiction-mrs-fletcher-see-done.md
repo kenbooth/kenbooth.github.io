@@ -1,7 +1,7 @@
 ---
+title: 'Review of new August fiction: ''Mrs. Fletcher'' and ''See What I Have Done'''
+date: 2017-08-08 00:00:00 -05:00
 layout: post
-title: "Review of new August fiction: 'Mrs. Fletcher' and 'See What I Have Done'"
-date: "2017-08-08"
 ---
 
 **Mrs. Fletcher**

@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Light Years'
+date: 2019-04-23 00:00:00 -05:00
 layout: post
-title: "Review: The Light Years"
-date: "2019-04-23"
 ---
 
 ![](/assets/images/51Vi9Phgu8L._SX331_BO1204203200_-133x200.jpg)

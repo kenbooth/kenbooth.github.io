@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-08-06 00:00:00 -05:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-08-06"
 ---
 
 A roundup of brief reviews of books I read in July. _An American Marriage_ is worthy of the praise it's received this year and _A Terrible Country_ is an interesting take on live in Putin's Russia.

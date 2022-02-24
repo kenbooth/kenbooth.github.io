@@ -1,8 +1,8 @@
 ---
+title: An assortment of links for Sunday
+date: 2017-07-23 00:00:00 -05:00
 layout: post
-title: "An assortment of links for Sunday"
-date: "2017-07-23"
-coverImage: "result.png"
+coverImage: result.png
 ---
 
 1. **Zume pizzas** are [made by robots](http://pogueman.tumblr.com/post/163258166282/the-pizza-making-robots-that-want-to-change-the), and they’re cooked in ovens inside delivery trucks on their way to delivery.

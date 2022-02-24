@@ -1,7 +1,7 @@
 ---
+title: Disk encryption and other links
+date: 2008-07-01 00:00:00 -05:00
 layout: post
-title: "Disk encryption and other links"
-date: "2008-07-01"
 ---
 
 [TrueCrypt](http://www.truecrypt.org/): Free open-source data encryption software.

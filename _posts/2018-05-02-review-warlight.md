@@ -1,7 +1,7 @@
 ---
+title: 'Review: Warlight'
+date: 2018-05-02 00:00:00 -05:00
 layout: post
-title: "Review: Warlight"
-date: "2018-05-02"
 ---
 
 ![](/assets/images/51Fxy-n8MkL-136x200.jpg)In the aftermath of WWII 14-year-old Nathaniel and his sister are left in the care of a mysterious man they nickname The Moth and his possibly criminal cohorts. [_Warlight_](https://amzn.to/2KuZlD3) follows Nathaniel's adventures with this eccentric lot and his efforts to discover why his mother seemingly abandoned him.

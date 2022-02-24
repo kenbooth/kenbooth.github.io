@@ -1,7 +1,7 @@
 ---
+title: Alternative blog platforms based on Dropbox
+date: 2014-01-20 00:00:00 -06:00
 layout: post
-title: "Alternative blog platforms based on Dropbox"
-date: "2014-01-20"
 ---
 
 There are a number of new blogging platforms that make it easy to publish content stored in a online file service, such as [Dropbox](http://www.dropbox.com/), as a blog or web site. For the most part editing is done using Mark Down, so no HTML knowledge is necessary. One of the advantages of this method of publishing is you control all of your content in your account and it is very simple to get a new site up and running. Because the sites use mark down, any files you create for one platform can easily be moved to a new platform for publishing.

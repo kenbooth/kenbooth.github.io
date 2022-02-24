@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Line That Held Us'
+date: 2018-08-27 00:00:00 -05:00
 layout: post
-title: "Review: The Line That Held Us"
-date: "2018-08-27"
 ---
 
 ![](/assets/images/61RuMH6k8iL-132x200.jpg)

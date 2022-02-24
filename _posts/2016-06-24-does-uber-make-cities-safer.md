@@ -1,8 +1,8 @@
 ---
+title: Does Uber make cities safer?
+date: 2016-06-24 00:00:00 -05:00
 layout: post
-title: "Does Uber make cities safer?"
-date: "2016-06-24"
-coverImage: "FullSizeRender-4-.jpg"
+coverImage: FullSizeRender-4-.jpg
 ---
 
 Allowing ride sharing in a city likely reduces the number of DUIs, fatal accidents and arrests for assault. But automobile thefts go up, presumably of cars left at bars overnight by Uber customers.

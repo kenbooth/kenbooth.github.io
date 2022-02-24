@@ -1,7 +1,7 @@
 ---
+title: Very short reviews of books
+date: 2018-12-17 00:00:00 -06:00
 layout: post
-title: "Very short reviews of books"
-date: "2018-12-17"
 ---
 
 A roundup of books I read in November. Haruki Murakami's _Killing Commendatore_ and Stephen Markley's _Ohio_ were the two best books of the month. In fact, those are the only two books I would definitely recommend. Unless you're an aspiring diarist, in which case you should read _Writing Down the Bones_.

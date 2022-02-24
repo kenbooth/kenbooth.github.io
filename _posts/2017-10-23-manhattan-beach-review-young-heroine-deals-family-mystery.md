@@ -1,8 +1,8 @@
 ---
+title: 'Manhattan Beach: A sweeping look at war time New York'
+date: 2017-10-23 00:00:00 -05:00
 layout: post
-title: "Manhattan Beach: A sweeping look at war time New York"
-date: "2017-10-23"
-coverImage: "manhattan-beach-art.jpg"
+coverImage: manhattan-beach-art.jpg
 ---
 
 During the Great Depression, young Anna Kerrigan regularly accompanies her father on his work as a union courier. But one morning he walks out the door and disappears, leaving Anna and her mother to take care of Anna's disabled sister.

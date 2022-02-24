@@ -1,7 +1,7 @@
 ---
+title: Friday morning coffee reads
+date: 2018-04-13 00:00:00 -05:00
 layout: post
-title: "Friday morning coffee reads"
-date: "2018-04-13"
 ---
 
 ![](/assets/images/3b50391u-Edit-800-189x200.jpg)A selection of stories to enjoy this Friday morning as you roll into the weekend.

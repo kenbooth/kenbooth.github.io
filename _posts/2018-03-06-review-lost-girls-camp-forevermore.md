@@ -1,7 +1,7 @@
 ---
+title: 'Review: The Lost Girls of Camp Forevermore'
+date: 2018-03-06 00:00:00 -06:00
 layout: post
-title: "Review: The Lost Girls of Camp Forevermore"
-date: "2018-03-06"
 ---
 
 ![](/assets/images/51NPqrba-9L-133x200.jpg)Kim Fu’s novel [_The Lost Girls of Camp Forevermore_](http://amzn.to/2CIRM6F) (Houghton Mifflin Harcourt, digital galley) alternates between the stories of five young women who experienced a traumatic event at camp while girls. Unfortunately it reads as a disparate collection of unrelated stories, with the camp experience being the only thing connecting the women.

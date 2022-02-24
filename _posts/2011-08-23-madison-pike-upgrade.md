@@ -1,7 +1,7 @@
 ---
+title: Madison Pike upgrade
+date: 2011-08-23 00:00:00 -05:00
 layout: post
-title: "Madison Pike upgrade"
-date: "2011-08-23"
 ---
 
 ![](/assets/images/madison-pike-upgrade.jpg)I’ve made a few design changes to [Madison Pike](http://www.madisonpike.com/) to give it a cleaner [Dave Winer](http://scripting.com/)\-like “River of News” appearance. The site is a news aggregator for Madison, Alabama and the new design cuts out extraneous design elements and does away with the larger blog-style headlines in favor of headlines nested within the paragraphs. I started with Automatic’s relatively new [P2 WordPress](http://p2theme.com/) theme and made a few modifications, including using Google Web Fonts for the masthead.

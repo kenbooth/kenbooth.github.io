@@ -1,7 +1,7 @@
 ---
+title: Moving past Google Reader
+date: 2013-03-14 00:00:00 -05:00
 layout: post
-title: "Moving past Google Reader"
-date: "2013-03-14"
 ---
 
 Google [announced yesterday](http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html) that it will shut down Reader on July 1. It’s hard to believe it only launched in 2005. It feels like I’ve been dependent on it for much longer. The majority of my browsing begins either directly in Reader or on services supported by Reader. Google created the best RSS reader available and topped all competitors. I will miss it.

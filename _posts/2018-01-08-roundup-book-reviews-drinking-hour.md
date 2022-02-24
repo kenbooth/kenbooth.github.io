@@ -1,8 +1,8 @@
 ---
+title: Books for the drinking hour
+date: 2018-01-08 00:00:00 -06:00
 layout: post
-title: "Books for the drinking hour"
-date: "2018-01-08"
-coverImage: "IMG_4722.jpg"
+coverImage: IMG_4722.jpg
 ---
 
 Below is a roundup of books that will get you in the mood for happy hour. The two best, _Trappist Beer Travels_ and _Rum Curious_, offer a mixture of history and reviews that will leave you feeling smarter about your drink choices.

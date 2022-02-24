@@ -1,7 +1,7 @@
 ---
+title: 'Review: Beginning Pen & Ink'
+date: 2019-04-11 00:00:00 -05:00
 layout: post
-title: "Review: Beginning Pen & Ink"
-date: "2019-04-11"
 ---
 
 ![](/assets/images/51dF1FHC1YL._SX383_BO1204203200_-154x200.jpg)

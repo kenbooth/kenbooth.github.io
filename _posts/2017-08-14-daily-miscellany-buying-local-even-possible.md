@@ -1,7 +1,7 @@
 ---
+title: 'Daily Miscellany: Is ''buying local'' even possible?'
+date: 2017-08-14 00:00:00 -05:00
 layout: post
-title: "Daily Miscellany: Is 'buying local' even possible?"
-date: "2017-08-14"
 ---
 
 1. **Is "buying local"** even possible? "[Imagine my surprise](http://bit.ly/2wHs80s) when I encountered a sign promoting a “local” food product in the bakery aisle of our town’s Safeway."
