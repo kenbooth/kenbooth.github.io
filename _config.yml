@@ -11,9 +11,9 @@ collections:
 theme: jekyll-theme-cayman
 author: Ken Booth
 description: About
-baseurl: ""
-permalink: /:title:output_ext
-url: 'https://kenbooth.net'
+baseurl: ''
+permalink: "/:title:output_ext"
+url: https://kenbooth.net
 lang: en
 plugins:
 - jekyll-sitemap
