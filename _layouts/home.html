@@ -13,7 +13,7 @@
   {% endif %}
   <p>
 <div class="homepost">
-  5
+  6
 {% if post.link %}<!-- img style="width:12px;height:16px;margin-bottom:-2px" src="/assets/images/external-link.png" --><a class="homelink" href="{{ post.link }}" target="_new">{{ post.title }}.</a> <span class="homesource">({{ post.source }})</span> {{ post.excerpt| remove: '<p>' | remove: '</p>' }} {% else %}<!-- a class="homelink" href="{{ post.url }}"><strong>{{ post.title }}.</strong></a --><h3><a href="{{ post.url }}">{{ post.title}}</a></h3>{{ post.excerpt }} <div class="homeanchor"><a href="{{ post.url }}"># Posted at {{ post.date | date: "%l:%M %P" }}</a>{% endif %}
 </div>
 
