@@ -9,11 +9,6 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-cayman
-author: Ken Booth
-description: About
-baseurl: ''
-url: https://kenbooth.net
-lang: en
 plugins:
 - jekyll-sitemap
 - jekyll-mentions
@@ -29,6 +24,12 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - CHANGELOG.md
-google_analytics: 
+author: Ken Booth
+description: About
+baseurl: ''
+url: https://kenbooth.net
+lang: en
+
+google_analytics:
 paginate: 5
 paginate_path: ./page:num/
