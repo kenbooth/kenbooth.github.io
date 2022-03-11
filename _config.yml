@@ -11,7 +11,7 @@ collections:
 theme: jekyll-theme-cayman
 author: Ken Booth
 description: About
-baseurl: "/"
+baseurl: ""
 url: https://kenbooth.github.io
 lang: en
 
