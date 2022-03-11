@@ -14,12 +14,26 @@ description: About
 baseurl: "/"
 url: https://kenbooth.github.io
 lang: en
+
+# set plugins
 plugins:
+- jekyll-sitemap
+- jekyll-mentions
 - jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
 - jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+
+# set exclude files
 exclude:
 - README.md
+- Gemfile
+- Gemfile.lock
 - CHANGELOG.md
+
 google_analytics:
 paginate: 5
 paginate_path: "/page:num/"
