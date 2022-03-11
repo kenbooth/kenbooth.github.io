@@ -17,6 +17,8 @@ lang: en
 exclude:
 - README.md
 - CHANGELOG.md
-google_analytics: 
+plugins:
+  - jekyll-paginate
+google_analytics:
 paginate: 5
 paginate_path: "/page:num/"
