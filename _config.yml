@@ -15,10 +15,10 @@ baseurl: "/"
 url: https://kenbooth.github.io
 lang: en
 plugins:
-  - jekyll-paginate
+- jekyll-paginate
 exclude:
 - README.md
 - CHANGELOG.md
-google_analytics:
+google_analytics: 
 paginate: 5
 paginate_path: "/page:num/"
