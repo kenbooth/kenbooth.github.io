@@ -12,7 +12,6 @@ theme: jekyll-theme-cayman
 author: Ken Booth
 description: About
 baseurl: ''
-permalink: "/:title:output_ext"
 url: https://kenbooth.net
 lang: en
 plugins:
@@ -30,6 +29,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - CHANGELOG.md
-google_analytics: 
+google_analytics:
 paginate: 5
 paginate_path: "/blog/page:num/"
