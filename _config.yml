@@ -29,7 +29,6 @@ description: About
 baseurl: ''
 url: https://kenbooth.net
 lang: en
-
-google_analytics:
+google_analytics: 
 paginate: 5
 paginate_path: "./page:num/"
